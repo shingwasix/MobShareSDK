@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteNote.h

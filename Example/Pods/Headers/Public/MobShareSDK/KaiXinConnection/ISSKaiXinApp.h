@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/KaiXinConnection.framework/Headers/ISSKaiXinApp.h

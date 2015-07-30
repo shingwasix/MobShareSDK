@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/EverNoteConnection.framework/Headers/SSEverNoteNote.h

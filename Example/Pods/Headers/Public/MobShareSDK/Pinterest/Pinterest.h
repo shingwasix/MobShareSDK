@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Extend/Pinterest.embeddedframework/Pinterest.framework/Versions/A/Headers/Pinterest.h

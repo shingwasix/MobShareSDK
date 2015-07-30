@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Extend/GooglePlusSDK/GoogleOpenSource.framework/Versions/A/Headers/GTLBatchQuery.h

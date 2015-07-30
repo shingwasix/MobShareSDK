@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/WeChatConnection.framework/Headers/SSWeChatErrorInfo.h

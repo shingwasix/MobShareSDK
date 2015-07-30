@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusCoverReader.h

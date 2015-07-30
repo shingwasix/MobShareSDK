@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/KaKaoTalkConnection.framework/Headers/ISSKakaoTalkApp.h

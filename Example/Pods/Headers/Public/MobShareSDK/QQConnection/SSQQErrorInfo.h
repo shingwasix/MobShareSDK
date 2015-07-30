@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/QQConnection.framework/Headers/SSQQErrorInfo.h

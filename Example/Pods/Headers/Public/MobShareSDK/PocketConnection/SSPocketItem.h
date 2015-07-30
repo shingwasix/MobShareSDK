@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/PocketConnection.framework/Headers/SSPocketItem.h

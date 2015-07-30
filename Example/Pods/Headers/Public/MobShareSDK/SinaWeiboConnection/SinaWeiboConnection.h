@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SinaWeiboConnection.h

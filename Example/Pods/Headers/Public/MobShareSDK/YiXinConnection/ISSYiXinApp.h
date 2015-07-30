@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/YiXinConnection.framework/Headers/ISSYiXinApp.h

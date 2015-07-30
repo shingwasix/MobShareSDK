@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/TencentWeiboConnection.framework/Headers/TencentWeiboConnection.h

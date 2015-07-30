@@ -1,0 +1,1 @@
+../../../../../../ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookCurrencyReader.h

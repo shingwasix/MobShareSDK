@@ -1,0 +1,1 @@
+../../../../../ShareSDK/Extend/YiXinSDK/YXApiObject.h
