@@ -8,7 +8,7 @@
 ShareSDK for iOS 来自 [mob](http://mob.com)
 
 ## 简介
-此项目为非官方整理，旨在减轻开发者集成ShareSDK的成本。项目中所包含的ShareSDK类库均从 [mob](http://mob.com) 官网下载，本人未对其进行过任何修改。
+此项目为非官方整理，旨在降低开发者集成ShareSDK的成本。项目中所包含的ShareSDK类库均从 [mob](http://mob.com) 官网下载，本人未对其进行过任何修改。
 
 ## 版本
 2.11.1 [更新时间:2015-07-29]
