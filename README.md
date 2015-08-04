@@ -28,7 +28,7 @@ iOS 5.1.1 及以上
 
 ## 安装
 
-MobShareSDK 可以通过 [CocoaPods](http://cocoapods.org). 进行安装, 只需在 Podfile 中添加以下代码:
+MobShareSDK 可以通过 [CocoaPods](http://cocoapods.org) 进行安装, 只需在 Podfile 中添加以下代码:
 
 ```ruby
 # 主模块(必须)
