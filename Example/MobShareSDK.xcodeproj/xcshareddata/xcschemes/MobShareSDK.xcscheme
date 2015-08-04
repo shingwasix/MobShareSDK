@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0600"
+   LastUpgradeVersion = "0640"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "MobShareSDK_Example.app"
-               BlueprintName = "MobShareSDK_Example"
+               BlueprintIdentifier = "4FF7500F1B70BF86000DAB3E"
+               BuildableName = "MobShareSDK.app"
+               BlueprintName = "MobShareSDK"
+               ReferencedContainer = "container:MobShareSDK.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "4FF750281B70BF87000DAB3E"
+               BuildableName = "MobShareSDKTests.xctest"
+               BlueprintName = "MobShareSDKTests"
                ReferencedContainer = "container:MobShareSDK.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +46,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "MobShareSDK_Tests.xctest"
-               BlueprintName = "MobShareSDK_Tests"
+               BlueprintIdentifier = "4FF750281B70BF87000DAB3E"
+               BuildableName = "MobShareSDKTests.xctest"
+               BlueprintName = "MobShareSDKTests"
                ReferencedContainer = "container:MobShareSDK.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,9 +56,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "MobShareSDK_Example.app"
-            BlueprintName = "MobShareSDK_Example"
+            BlueprintIdentifier = "4FF7500F1B70BF86000DAB3E"
+            BuildableName = "MobShareSDK.app"
+            BlueprintName = "MobShareSDK"
             ReferencedContainer = "container:MobShareSDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -62,9 +76,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "MobShareSDK_Example.app"
-            BlueprintName = "MobShareSDK_Example"
+            BlueprintIdentifier = "4FF7500F1B70BF86000DAB3E"
+            BuildableName = "MobShareSDK.app"
+            BlueprintName = "MobShareSDK"
             ReferencedContainer = "container:MobShareSDK.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -81,9 +95,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "MobShareSDK_Example.app"
-            BlueprintName = "MobShareSDK_Example"
+            BlueprintIdentifier = "4FF7500F1B70BF86000DAB3E"
+            BuildableName = "MobShareSDK.app"
+            BlueprintName = "MobShareSDK"
             ReferencedContainer = "container:MobShareSDK.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

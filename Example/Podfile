@@ -1,14 +1,14 @@
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '5.1.1'
 
-target 'MobShareSDK_Example', :exclusive => true do
+target 'MobShareSDK', :exclusive => true do
     pod "MobShareSDK", :path => "../"
     pod "MobShareSDK/UI", :path => "../"
     pod "MobShareSDK/Comment", :path => "../"
     pod "MobShareSDK/Connection", :path => "../"
 end
 
-target 'MobShareSDK_Tests', :exclusive => true do
+target 'MobShareSDKTests', :exclusive => true do
     pod "MobShareSDK", :path => "../"
     pod "MobShareSDK/UI", :path => "../"
     pod "MobShareSDK/Comment", :path => "../"

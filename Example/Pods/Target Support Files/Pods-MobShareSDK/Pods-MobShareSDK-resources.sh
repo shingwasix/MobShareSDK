@@ -18,12 +18,12 @@ install_resource()
 {
   case $1 in
     *.storyboard)
-      echo "ibtool --reference-external-strings-file --errors --warnings --notices --output-format human-readable-text --compile ${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/`basename \"$1\" .storyboard`.storyboardc ${PODS_ROOT}/$1 --sdk ${SDKROOT}"
-      ibtool --reference-external-strings-file --errors --warnings --notices --output-format human-readable-text --compile "${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/`basename \"$1\" .storyboard`.storyboardc" "${PODS_ROOT}/$1" --sdk "${SDKROOT}"
+      echo "ibtool --errors --warnings --notices --output-format human-readable-text --compile ${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/`basename \"$1\" .storyboard`.storyboardc ${PODS_ROOT}/$1 --sdk ${SDKROOT}"
+      ibtool --errors --warnings --notices --output-format human-readable-text --compile "${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/`basename \"$1\" .storyboard`.storyboardc" "${PODS_ROOT}/$1" --sdk "${SDKROOT}"
       ;;
     *.xib)
-      echo "ibtool --reference-external-strings-file --errors --warnings --notices --output-format human-readable-text --compile ${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/`basename \"$1\" .xib`.nib ${PODS_ROOT}/$1 --sdk ${SDKROOT}"
-      ibtool --reference-external-strings-file --errors --warnings --notices --output-format human-readable-text --compile "${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/`basename \"$1\" .xib`.nib" "${PODS_ROOT}/$1" --sdk "${SDKROOT}"
+      echo "ibtool --errors --warnings --notices --output-format human-readable-text --compile ${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/`basename \"$1\" .xib`.nib ${PODS_ROOT}/$1 --sdk ${SDKROOT}"
+      ibtool --errors --warnings --notices --output-format human-readable-text --compile "${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/`basename \"$1\" .xib`.nib" "${PODS_ROOT}/$1" --sdk "${SDKROOT}"
       ;;
     *.framework)
       echo "mkdir -p ${CONFIGURATION_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}"
@@ -58,12 +58,36 @@ install_resource()
   esac
 }
 if [[ "$CONFIGURATION" == "Debug" ]]; then
+  install_resource "../../Comment/Comment.bundle"
+  install_resource "../../ShareSDK/Connection/InstapaperResource.bundle"
   install_resource "../../ShareSDK/Core/Resource.bundle"
   install_resource "../../ShareSDK/Core/zh-Hans.lproj/ShareSDKLocalizable.strings"
+  install_resource "../../ShareSDK/Extend/GooglePlusSDK/GooglePlus.bundle"
+  install_resource "../../ShareSDK/Extend/Pinterest.embeddedframework/Resources/PinterestSDKResources.bundle"
+  install_resource "../../ShareSDK/Extend/QQConnectSDK/TencentOpenApi_IOS_Bundle.bundle"
+  install_resource "../../ShareSDK/Extend/RenRenSDK/RennSDK.bundle"
+  install_resource "../../ShareSDK/Extend/SinaWeiboSDK/WeiboSDK.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKFlatShareViewUI.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKiPadDefaultShareViewUI.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKiPadSimpleShareViewUI.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKiPhoneDefaultShareViewUI.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKiPhoneSimpleShareViewUI.bundle"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
+  install_resource "../../Comment/Comment.bundle"
+  install_resource "../../ShareSDK/Connection/InstapaperResource.bundle"
   install_resource "../../ShareSDK/Core/Resource.bundle"
   install_resource "../../ShareSDK/Core/zh-Hans.lproj/ShareSDKLocalizable.strings"
+  install_resource "../../ShareSDK/Extend/GooglePlusSDK/GooglePlus.bundle"
+  install_resource "../../ShareSDK/Extend/Pinterest.embeddedframework/Resources/PinterestSDKResources.bundle"
+  install_resource "../../ShareSDK/Extend/QQConnectSDK/TencentOpenApi_IOS_Bundle.bundle"
+  install_resource "../../ShareSDK/Extend/RenRenSDK/RennSDK.bundle"
+  install_resource "../../ShareSDK/Extend/SinaWeiboSDK/WeiboSDK.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKFlatShareViewUI.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKiPadDefaultShareViewUI.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKiPadSimpleShareViewUI.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKiPhoneDefaultShareViewUI.bundle"
+  install_resource "../../ShareSDK/UI/ShareSDKiPhoneSimpleShareViewUI.bundle"
 fi
 
 mkdir -p "${CONFIGURATION_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}"

@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
     s.name                = "MobShareSDK"
-    s.version             = "2.11.1"
+    s.version             = "2.11.1-1"
     s.summary             = 'ShareSDK of mob for iOS.'
     s.license             = 'Copyright © 2012-2015 mob'
     s.author              = { "shingwasix" => "https://github.com/shingwasix" }
     s.homepage            = 'http://mob.com'
     s.source              = { :git => "https://github.com/shingwasix/MobShareSDK.git", :tag => s.version.to_s }
     s.platform            = :ios, '5.1.1'
-    s.frameworks          = 'SystemConfiguration', 'QuartzCore', 'CoreTelephony', 'Security'
+    s.frameworks          = 'SystemConfiguration', 'QuartzCore', 'CoreTelephony', 'Security', 'JavaScriptCore'
     s.libraries           = 'icucore', 'z.1.2.5', 'stdc++'
     s.default_subspecs    = 'Core'
     s.vendored_frameworks = 'ShareSDK/ShareSDK.framework'

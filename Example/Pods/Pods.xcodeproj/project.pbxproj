@@ -7,60 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3482FD61AAF602E3161D999AA0F758D2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B74CAD1447CF193073C90D9A98DFBEBF /* Foundation.framework */; };
-		78B7FF79FFD035C30DD004D4FA9DFA99 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B74CAD1447CF193073C90D9A98DFBEBF /* Foundation.framework */; };
-		90A68D7EE9C1AF1E81CD776F9C681FA9 /* Pods-MobShareSDK_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 225445F1C5F9E11EFA6B43C34B929430 /* Pods-MobShareSDK_Tests-dummy.m */; };
-		EB5C08B2EF8C7B60CDE6B49C0571BB6F /* Pods-MobShareSDK_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 059AD5F5370573DBD55D4F40FF820654 /* Pods-MobShareSDK_Example-dummy.m */; };
+		2BA8A469ADED7B178A116C241A42CDDF /* Pods-MobShareSDKTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C36C32CDAF2D4B54EE8DC1ECCFF40300 /* Pods-MobShareSDKTests-dummy.m */; };
+		47DCB3EF658955DA254DFDDC294EFEC0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA374DD14D66BD2FA97178DB93A08513 /* Foundation.framework */; };
+		AC2BC54162E09DBD19A9AAFB8648E12F /* Pods-MobShareSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 49F4D543437429515C2D83E8991F097F /* Pods-MobShareSDK-dummy.m */; };
+		FB3D3035D12B79AD103243E9F33B181E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA374DD14D66BD2FA97178DB93A08513 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0108F6F4CAE9AC069EA102FFFC9C8C08 /* InstapaperResource.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = InstapaperResource.bundle; sourceTree = "<group>"; };
 		01ADA7DB53DC7A973EB88EB095F56D4E /* WeChatConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WeChatConnection.framework; path = ShareSDK/Connection/WeChatConnection.framework; sourceTree = "<group>"; };
 		04F3092CA5F8D5199562A205DC30387C /* KaiXinConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = KaiXinConnection.framework; path = ShareSDK/Connection/KaiXinConnection.framework; sourceTree = "<group>"; };
-		059AD5F5370573DBD55D4F40FF820654 /* Pods-MobShareSDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MobShareSDK_Example-dummy.m"; sourceTree = "<group>"; };
+		09B2DCDACB195C9D9D43F25682595F86 /* Pods-MobShareSDKTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MobShareSDKTests.debug.xcconfig"; sourceTree = "<group>"; };
 		0D07C1AF8A9293F9F88E45C588ECD167 /* DropboxConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DropboxConnection.framework; path = ShareSDK/Connection/DropboxConnection.framework; sourceTree = "<group>"; };
 		0D99008236FCA82D30C89CED8C0559EE /* PocketConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PocketConnection.framework; path = ShareSDK/Connection/PocketConnection.framework; sourceTree = "<group>"; };
-		0E75FB15EECDDE875931B3B133C821F5 /* Pods-MobShareSDK_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MobShareSDK_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		1070605EA687FF7C320C59B8B5323323 /* AGCommon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AGCommon.framework; path = ShareSDK/Core/AGCommon.framework; sourceTree = "<group>"; };
 		1C13016EF46E4A1F2B46A409F2CDAE74 /* DouBanConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DouBanConnection.framework; path = ShareSDK/Connection/DouBanConnection.framework; sourceTree = "<group>"; };
 		1FF2C286152CC8623626C9A892CB11F7 /* YXApiObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YXApiObject.h; sourceTree = "<group>"; };
 		206B0DEF1476C6F4F25C332C1377C9DF /* ShareSDKiPadDefaultShareViewUI.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = ShareSDKiPadDefaultShareViewUI.bundle; sourceTree = "<group>"; };
-		225445F1C5F9E11EFA6B43C34B929430 /* Pods-MobShareSDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MobShareSDK_Tests-dummy.m"; sourceTree = "<group>"; };
+		279AA4B5A7CEC96B7329E9AD1A567FC0 /* Pods-MobShareSDK-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MobShareSDK-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2AEA14A457F5B8F56166357C6776BB91 /* ShareSDKiPadSimpleShareViewUI.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = ShareSDKiPadSimpleShareViewUI.bundle; sourceTree = "<group>"; };
-		2B87F43296C303A78CDEB04723B37F6C /* Pods-MobShareSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MobShareSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		2E5AB3098A48E6E1FDD4414BB6D73366 /* FacebookConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookConnection.framework; path = ShareSDK/Connection/FacebookConnection.framework; sourceTree = "<group>"; };
 		3073B3C6D9B52DF89CE08FE1E42613EF /* GooglePlus.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = GooglePlus.bundle; sourceTree = "<group>"; };
-		30F5D5BFAE92FC4B4C5319D085C0FD62 /* Pods-MobShareSDK_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MobShareSDK_Example-resources.sh"; sourceTree = "<group>"; };
 		32BE14616833AF8429ACF98DD9FEA88F /* InstapaperConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = InstapaperConnection.framework; path = ShareSDK/Connection/InstapaperConnection.framework; sourceTree = "<group>"; };
 		355D8750C964F23A3DA352568C8A456E /* WeiboSDK.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = WeiboSDK.bundle; sourceTree = "<group>"; };
-		3686AF6497977B4DAE1C621F3384D084 /* libPods-MobShareSDK_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MobShareSDK_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		37282AF3F59126ACFB4EF594D787EE63 /* Pods-MobShareSDK_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MobShareSDK_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		37BFA958B7A7DA150A3922FE88D43C78 /* CopyConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CopyConnection.framework; path = ShareSDK/Connection/CopyConnection.framework; sourceTree = "<group>"; };
 		382DE6EC4DAD10783D09BC2A7FFFF7C0 /* QQConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QQConnection.framework; path = ShareSDK/Connection/QQConnection.framework; sourceTree = "<group>"; };
 		3B9AFA794724B98AE579F541BE4FBFC8 /* ShareSDKiPhoneAppRecommendShareViewUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShareSDKiPhoneAppRecommendShareViewUI.framework; path = ShareSDK/UI/ShareSDKiPhoneAppRecommendShareViewUI.framework; sourceTree = "<group>"; };
 		3BCE3FBE26F92ED9C5CF9C8E0EFDBF22 /* ShareSDKFlatShareViewUI.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = ShareSDKFlatShareViewUI.bundle; sourceTree = "<group>"; };
+		3EDF5B50A826A978045D652BA75862C7 /* Pods-MobShareSDK-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MobShareSDK-acknowledgements.plist"; sourceTree = "<group>"; };
 		44FD39B799044A202BF0FDF6934FF6CC /* InstagramConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = InstagramConnection.framework; path = ShareSDK/Connection/InstagramConnection.framework; sourceTree = "<group>"; };
+		47AE60496FBEB9FCF6D7BC0AF44B36B6 /* Pods-MobShareSDKTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MobShareSDKTests.release.xcconfig"; sourceTree = "<group>"; };
+		49F4D543437429515C2D83E8991F097F /* Pods-MobShareSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MobShareSDK-dummy.m"; sourceTree = "<group>"; };
 		4AF4327989678DDE627BAB639DEE1C4C /* ShareSDKiPhoneDefaultShareViewUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShareSDKiPhoneDefaultShareViewUI.framework; path = ShareSDK/UI/ShareSDKiPhoneDefaultShareViewUI.framework; sourceTree = "<group>"; };
 		4C94C5224967BECB39FAC2F19A682D08 /* KaKaoStoryConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = KaKaoStoryConnection.framework; path = ShareSDK/Connection/KaKaoStoryConnection.framework; sourceTree = "<group>"; };
 		503AAAF56A0D90D0571E71FD7E731888 /* YXApi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YXApi.h; sourceTree = "<group>"; };
 		5071C7D5A8A48F940C9A97360373A94B /* TumblrConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TumblrConnection.framework; path = ShareSDK/Connection/TumblrConnection.framework; sourceTree = "<group>"; };
 		50DDFD4897FC27C1BD08B9B697A6F59E /* ShareSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShareSDK.framework; path = ShareSDK/ShareSDK.framework; sourceTree = "<group>"; };
 		5425C2D2E88845476EA25E03147BAF15 /* YouDaoNoteConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = YouDaoNoteConnection.framework; path = ShareSDK/Connection/YouDaoNoteConnection.framework; sourceTree = "<group>"; };
-		571FFA9566898D864516D770AFDA80A7 /* Pods-MobShareSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MobShareSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5B5E0ED839BC9E560FCF89E0D1010BE6 /* ShareSDKCoreService.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShareSDKCoreService.framework; path = ShareSDK/Core/ShareSDKCoreService.framework; sourceTree = "<group>"; };
 		5BB79F1F3B8B50D926EA1FA735F983E1 /* ShareSDKLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; path = ShareSDKLocalizable.strings; sourceTree = "<group>"; };
+		5BEE20B3D61395239181E59405A0FDA4 /* Pods-MobShareSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MobShareSDK.release.xcconfig"; sourceTree = "<group>"; };
 		5C6FDE8D95CE31D036A26497808C45E5 /* TencentWeiboConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TencentWeiboConnection.framework; path = ShareSDK/Connection/TencentWeiboConnection.framework; sourceTree = "<group>"; };
-		5D5D9AB3F229CA53EF4DFD80282F2C24 /* Pods-MobShareSDK_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MobShareSDK_Tests-resources.sh"; sourceTree = "<group>"; };
 		5DCD5E64C6763EB259D7EA562AB9C838 /* GoogleOpenSource.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleOpenSource.framework; path = ShareSDK/Extend/GooglePlusSDK/GoogleOpenSource.framework; sourceTree = "<group>"; };
 		5E9F59A09271CB8FA35C1C04DFBBB023 /* TencentOpenApi_IOS_Bundle.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = TencentOpenApi_IOS_Bundle.bundle; sourceTree = "<group>"; };
 		627DC3A27A82D135ED31F2EB2130ADC5 /* WeiboSDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = WeiboSDK.h; sourceTree = "<group>"; };
+		6731144F73E88799C0FC7A318C44692E /* libPods-MobShareSDKTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MobShareSDKTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		67B55F8FF9D3055617961C0DD8D11D57 /* ShareSDKiPadSimpleShareViewUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShareSDKiPadSimpleShareViewUI.framework; path = ShareSDK/UI/ShareSDKiPadSimpleShareViewUI.framework; sourceTree = "<group>"; };
 		68441577FAEF6C2A9F1165A1440871FB /* MingDaoConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MingDaoConnection.framework; path = ShareSDK/Connection/MingDaoConnection.framework; sourceTree = "<group>"; };
 		6928B7823BE3A00DD161429F468F7B85 /* PrintConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PrintConnection.framework; path = ShareSDK/Connection/PrintConnection.framework; sourceTree = "<group>"; };
 		6A86E50E9A3C219EDF8F1BDDFE0D8541 /* Pinterest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Pinterest.framework; path = ShareSDK/Extend/Pinterest.embeddedframework/Pinterest.framework; sourceTree = "<group>"; };
 		6C481B2BB23B16B1851FCD6C3D4C48F6 /* QZoneConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QZoneConnection.framework; path = ShareSDK/Connection/QZoneConnection.framework; sourceTree = "<group>"; };
 		6C8E415EDA4523FF255424A3C8D026FA /* FlickrConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FlickrConnection.framework; path = ShareSDK/Connection/FlickrConnection.framework; sourceTree = "<group>"; };
-		6F32FBA44F24C74EE573BFE1A7CA6916 /* Pods-MobShareSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MobShareSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6F42CFFD906B49AB64AFBE84DB30F33E /* SMSConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SMSConnection.framework; path = ShareSDK/Connection/SMSConnection.framework; sourceTree = "<group>"; };
 		7EEC6702A186A699F357B383F48A5A28 /* WhatsAppConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WhatsAppConnection.framework; path = ShareSDK/Connection/WhatsAppConnection.framework; sourceTree = "<group>"; };
 		804448E7A2E34AFCDD77E5B4DB0BA33D /* ShareSDKiPhoneSimpleShareViewUI.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = ShareSDKiPhoneSimpleShareViewUI.bundle; sourceTree = "<group>"; };
@@ -75,49 +72,52 @@
 		907DA1AFC1F705975E56599E19A3E6BF /* ShareSDKShareActionSheet.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShareSDKShareActionSheet.framework; path = ShareSDK/UI/ShareSDKShareActionSheet.framework; sourceTree = "<group>"; };
 		93A6B4A784B7C7DE2D8871EA8EB98999 /* ShareSDKiPhoneDefaultShareViewUI.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = ShareSDKiPhoneDefaultShareViewUI.bundle; sourceTree = "<group>"; };
 		9521511E456599952FA758DA7AF86D44 /* Resource.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = Resource.bundle; sourceTree = "<group>"; };
+		958AB60C7B5F336C8E5E9D8A7CCCF99B /* Pods-MobShareSDKTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MobShareSDKTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		9791C158F6B1AD48B261EBAD968AB46C /* Comment.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; path = Comment.bundle; sourceTree = "<group>"; };
+		9F40F22994B01D3A39A4813D8846CE60 /* Pods-MobShareSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MobShareSDK.debug.xcconfig"; sourceTree = "<group>"; };
 		9FEE8157FF70F4B25AF9FB38B4B99AF2 /* SinaWeiboConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SinaWeiboConnection.framework; path = ShareSDK/Connection/SinaWeiboConnection.framework; sourceTree = "<group>"; };
 		A7C08CDFCE69203C7167DA9D8419041A /* GooglePlusConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GooglePlusConnection.framework; path = ShareSDK/Connection/GooglePlusConnection.framework; sourceTree = "<group>"; };
 		A831D0CE4C2FFDD43D4440C5FFF15C44 /* libWeiboSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libWeiboSDK.a; path = ShareSDK/Extend/SinaWeiboSDK/libWeiboSDK.a; sourceTree = "<group>"; };
-		A8914D6F77283099B24C0DD5442200FC /* Pods-MobShareSDK_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MobShareSDK_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		A9D8B70AB437571C74DBB34586449EB2 /* libPods-MobShareSDK_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MobShareSDK_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABFA44E97DBECF31785DFD242B3B01E4 /* VKontakteConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VKontakteConnection.framework; path = ShareSDK/Connection/VKontakteConnection.framework; sourceTree = "<group>"; };
 		B0C71AE2C1324FD2AF43AEBDF08D6F8B /* ShareSDKFlatShareViewUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShareSDKFlatShareViewUI.framework; path = ShareSDK/UI/ShareSDKFlatShareViewUI.framework; sourceTree = "<group>"; };
+		B356423E26148AB81FBFB5B4AFC7185B /* Pods-MobShareSDKTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MobShareSDKTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B6B761B02E91C19AE62EB86EB0439FC7 /* GooglePlus.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GooglePlus.framework; path = ShareSDK/Extend/GooglePlusSDK/GooglePlus.framework; sourceTree = "<group>"; };
-		B74CAD1447CF193073C90D9A98DFBEBF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BA8DE9D244593401BB66DE8CB7E5AD2B /* LinkedInConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LinkedInConnection.framework; path = ShareSDK/Connection/LinkedInConnection.framework; sourceTree = "<group>"; };
 		BF22F513D352B930EECF8364A0D97445 /* YiXinConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = YiXinConnection.framework; path = ShareSDK/Connection/YiXinConnection.framework; sourceTree = "<group>"; };
-		C0B83E9CD0D051E78BDA0919A34A6BA7 /* Pods-MobShareSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MobShareSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
+		C36C32CDAF2D4B54EE8DC1ECCFF40300 /* Pods-MobShareSDKTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MobShareSDKTests-dummy.m"; sourceTree = "<group>"; };
 		C5875420DC4058837E365AA910BC85EF /* Comment.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Comment.framework; path = Comment/Comment.framework; sourceTree = "<group>"; };
 		D274D3316D97E62697E4DC90DFCA6F8A /* WXApiObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = WXApiObject.h; sourceTree = "<group>"; };
 		D52069BAE0FB8E8E2017457D6C67D362 /* MOBFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MOBFoundation.framework; path = ShareSDK/Core/MOBFoundation.framework; sourceTree = "<group>"; };
-		D702362D270D3FC5A3B22CE670DDF14E /* Pods-MobShareSDK_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MobShareSDK_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D7AE807E1917831BE72C5EA1F7132BE2 /* ShareSDKiPhoneSimpleShareViewUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ShareSDKiPhoneSimpleShareViewUI.framework; path = ShareSDK/UI/ShareSDKiPhoneSimpleShareViewUI.framework; sourceTree = "<group>"; };
 		D860F331BFCFEEBEA26361B93605C979 /* WXApi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = WXApi.h; sourceTree = "<group>"; };
 		DB6019E153EEE05B6BCD471CCE426F21 /* RenRenConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RenRenConnection.framework; path = ShareSDK/Connection/RenRenConnection.framework; sourceTree = "<group>"; };
 		E07A2980C3C1F111FA3D790EA85F7F06 /* EverNoteConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EverNoteConnection.framework; path = ShareSDK/Connection/EverNoteConnection.framework; sourceTree = "<group>"; };
+		E0ABDF38B9C264F1877D681B69C6EDEC /* libPods-MobShareSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MobShareSDK.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1548E0C732A298787C5EB0DCDC91E68 /* TwitterConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TwitterConnection.framework; path = ShareSDK/Connection/TwitterConnection.framework; sourceTree = "<group>"; };
+		E36A0521ABAC4EF530F0F015BF27603C /* Pods-MobShareSDKTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MobShareSDKTests-resources.sh"; sourceTree = "<group>"; };
+		E73D6F3B4F5BC166FA4BE4DD68BB0577 /* Pods-MobShareSDK-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MobShareSDK-resources.sh"; sourceTree = "<group>"; };
 		EBB1D62E738A1D9B4D99583CE7D4EDCC /* RennSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RennSDK.framework; path = ShareSDK/Extend/RenRenSDK/RennSDK.framework; sourceTree = "<group>"; };
 		EC66C7506AAD9E0456883066FD618F3C /* MailConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MailConnection.framework; path = ShareSDK/Connection/MailConnection.framework; sourceTree = "<group>"; };
 		F4A38740E4A43E0F0523A7ECBED9BE0F /* PinterestConnection.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PinterestConnection.framework; path = ShareSDK/Connection/PinterestConnection.framework; sourceTree = "<group>"; };
 		F60DFD365EBD3C66D63E1D4A1684B155 /* TencentOpenAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TencentOpenAPI.framework; path = ShareSDK/Extend/QQConnectSDK/TencentOpenAPI.framework; sourceTree = "<group>"; };
+		FA374DD14D66BD2FA97178DB93A08513 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3474447FAAB4D5FF153118B22A18E45D /* Frameworks */ = {
+		347AB11568AF5773DA8E6C3C4328F7BC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				78B7FF79FFD035C30DD004D4FA9DFA99 /* Foundation.framework in Frameworks */,
+				47DCB3EF658955DA254DFDDC294EFEC0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BD1183D891C1753B1CA215B88AE1FE1A /* Frameworks */ = {
+		B5E262E42C6C52323D82510B6216BDFD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3482FD61AAF602E3161D999AA0F758D2 /* Foundation.framework in Frameworks */,
+				FB3D3035D12B79AD103243E9F33B181E /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,26 +170,26 @@
 			name = Tumblr;
 			sourceTree = "<group>";
 		};
+		07B16178EC3F5D9769AAC5EA22905CEC /* Pods-MobShareSDKTests */ = {
+			isa = PBXGroup;
+			children = (
+				958AB60C7B5F336C8E5E9D8A7CCCF99B /* Pods-MobShareSDKTests-acknowledgements.markdown */,
+				B356423E26148AB81FBFB5B4AFC7185B /* Pods-MobShareSDKTests-acknowledgements.plist */,
+				C36C32CDAF2D4B54EE8DC1ECCFF40300 /* Pods-MobShareSDKTests-dummy.m */,
+				E36A0521ABAC4EF530F0F015BF27603C /* Pods-MobShareSDKTests-resources.sh */,
+				09B2DCDACB195C9D9D43F25682595F86 /* Pods-MobShareSDKTests.debug.xcconfig */,
+				47AE60496FBEB9FCF6D7BC0AF44B36B6 /* Pods-MobShareSDKTests.release.xcconfig */,
+			);
+			name = "Pods-MobShareSDKTests";
+			path = "Target Support Files/Pods-MobShareSDKTests";
+			sourceTree = "<group>";
+		};
 		08200D9CEF0DF7FD11B698CD91511A28 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				9D9B0AD5E3F57727A74395C1FBF3D3F8 /* ShareSDK */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
-		};
-		0865F3AA87D53E38564F0FDD5E2BBAE3 /* Pods-MobShareSDK_Example */ = {
-			isa = PBXGroup;
-			children = (
-				37282AF3F59126ACFB4EF594D787EE63 /* Pods-MobShareSDK_Example-acknowledgements.markdown */,
-				A8914D6F77283099B24C0DD5442200FC /* Pods-MobShareSDK_Example-acknowledgements.plist */,
-				059AD5F5370573DBD55D4F40FF820654 /* Pods-MobShareSDK_Example-dummy.m */,
-				30F5D5BFAE92FC4B4C5319D085C0FD62 /* Pods-MobShareSDK_Example-resources.sh */,
-				2B87F43296C303A78CDEB04723B37F6C /* Pods-MobShareSDK_Example.debug.xcconfig */,
-				C0B83E9CD0D051E78BDA0919A34A6BA7 /* Pods-MobShareSDK_Example.release.xcconfig */,
-			);
-			name = "Pods-MobShareSDK_Example";
-			path = "Target Support Files/Pods-MobShareSDK_Example";
 			sourceTree = "<group>";
 		};
 		09FDC29662FF59BD7B7912980463C9DE /* Frameworks */ = {
@@ -282,6 +282,20 @@
 				573E4E4D9E2971122B45A0E63037CFB6 /* Extend */,
 			);
 			path = ShareSDK;
+			sourceTree = "<group>";
+		};
+		2024E783710825064FCACFA99CF977FA /* Pods-MobShareSDK */ = {
+			isa = PBXGroup;
+			children = (
+				279AA4B5A7CEC96B7329E9AD1A567FC0 /* Pods-MobShareSDK-acknowledgements.markdown */,
+				3EDF5B50A826A978045D652BA75862C7 /* Pods-MobShareSDK-acknowledgements.plist */,
+				49F4D543437429515C2D83E8991F097F /* Pods-MobShareSDK-dummy.m */,
+				E73D6F3B4F5BC166FA4BE4DD68BB0577 /* Pods-MobShareSDK-resources.sh */,
+				9F40F22994B01D3A39A4813D8846CE60 /* Pods-MobShareSDK.debug.xcconfig */,
+				5BEE20B3D61395239181E59405A0FDA4 /* Pods-MobShareSDK.release.xcconfig */,
+			);
+			name = "Pods-MobShareSDK";
+			path = "Target Support Files/Pods-MobShareSDK";
 			sourceTree = "<group>";
 		};
 		226CD6EA2E1CE048F143101367DE8CEE /* Extend */ = {
@@ -381,15 +395,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		35A9AB488E8A8EA0F6A7907428B6273F /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				0865F3AA87D53E38564F0FDD5E2BBAE3 /* Pods-MobShareSDK_Example */,
-				504D738E67325ADF89B4C6D38CE3543C /* Pods-MobShareSDK_Tests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
 		36ED7A82CF8BD908ACA92F0DC2F53BFE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -436,6 +441,15 @@
 				0D99008236FCA82D30C89CED8C0559EE /* PocketConnection.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		41B144BA0C8C6D56061CCDF4181A1FFF /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				2024E783710825064FCACFA99CF977FA /* Pods-MobShareSDK */,
+				07B16178EC3F5D9769AAC5EA22905CEC /* Pods-MobShareSDKTests */,
+			);
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 		433C0304CB47C685CB6162BF049A7062 /* Frameworks */ = {
@@ -494,20 +508,6 @@
 			path = Comment;
 			sourceTree = "<group>";
 		};
-		504D738E67325ADF89B4C6D38CE3543C /* Pods-MobShareSDK_Tests */ = {
-			isa = PBXGroup;
-			children = (
-				D702362D270D3FC5A3B22CE670DDF14E /* Pods-MobShareSDK_Tests-acknowledgements.markdown */,
-				0E75FB15EECDDE875931B3B133C821F5 /* Pods-MobShareSDK_Tests-acknowledgements.plist */,
-				225445F1C5F9E11EFA6B43C34B929430 /* Pods-MobShareSDK_Tests-dummy.m */,
-				5D5D9AB3F229CA53EF4DFD80282F2C24 /* Pods-MobShareSDK_Tests-resources.sh */,
-				571FFA9566898D864516D770AFDA80A7 /* Pods-MobShareSDK_Tests.debug.xcconfig */,
-				6F32FBA44F24C74EE573BFE1A7CA6916 /* Pods-MobShareSDK_Tests.release.xcconfig */,
-			);
-			name = "Pods-MobShareSDK_Tests";
-			path = "Target Support Files/Pods-MobShareSDK_Tests";
-			sourceTree = "<group>";
-		};
 		516C9B1D91188E473FE51D30EA754151 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
@@ -552,7 +552,7 @@
 		53F661C0CA7190D2CF05023FB33D61E4 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				B74CAD1447CF193073C90D9A98DFBEBF /* Foundation.framework */,
+				FA374DD14D66BD2FA97178DB93A08513 /* Foundation.framework */,
 			);
 			name = iOS;
 			sourceTree = "<group>";
@@ -773,7 +773,7 @@
 				ED8F277A06CE6E2DEDE694A68BDB705A /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				CCA510CFBEA2D207524CDA0D73C3B561 /* Products */,
-				35A9AB488E8A8EA0F6A7907428B6273F /* Targets Support Files */,
+				41B144BA0C8C6D56061CCDF4181A1FFF /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -1208,8 +1208,8 @@
 		CCA510CFBEA2D207524CDA0D73C3B561 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3686AF6497977B4DAE1C621F3384D084 /* libPods-MobShareSDK_Example.a */,
-				A9D8B70AB437571C74DBB34586449EB2 /* libPods-MobShareSDK_Tests.a */,
+				E0ABDF38B9C264F1877D681B69C6EDEC /* libPods-MobShareSDK.a */,
+				6731144F73E88799C0FC7A318C44692E /* libPods-MobShareSDKTests.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1520,36 +1520,36 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0D8AC6A266C8B60C6D584BD96F318D01 /* Pods-MobShareSDK_Example */ = {
+		0C0BFCB53DDD61F14C7305B475ACCA1F /* Pods-MobShareSDK */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6027E76985A632FFB0FD78BD8850EE1D /* Build configuration list for PBXNativeTarget "Pods-MobShareSDK_Example" */;
+			buildConfigurationList = 52FB3628F75C46F4060D80E086DE3F76 /* Build configuration list for PBXNativeTarget "Pods-MobShareSDK" */;
 			buildPhases = (
-				360A5C344244AF2474967222236230AE /* Sources */,
-				BD1183D891C1753B1CA215B88AE1FE1A /* Frameworks */,
+				76027CB825391C07BD887033946B9BFB /* Sources */,
+				347AB11568AF5773DA8E6C3C4328F7BC /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Pods-MobShareSDK_Example";
-			productName = "Pods-MobShareSDK_Example";
-			productReference = 3686AF6497977B4DAE1C621F3384D084 /* libPods-MobShareSDK_Example.a */;
+			name = "Pods-MobShareSDK";
+			productName = "Pods-MobShareSDK";
+			productReference = E0ABDF38B9C264F1877D681B69C6EDEC /* libPods-MobShareSDK.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		84DC2C69D97BD4A53BCBCD5983FA9391 /* Pods-MobShareSDK_Tests */ = {
+		536394D25F6DDAA68FE536B4894142D5 /* Pods-MobShareSDKTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE040147CD259C9A957EA2ABEB197711 /* Build configuration list for PBXNativeTarget "Pods-MobShareSDK_Tests" */;
+			buildConfigurationList = 2AE502393B6BA0381FB2109228251ADE /* Build configuration list for PBXNativeTarget "Pods-MobShareSDKTests" */;
 			buildPhases = (
-				235F475D0E004D4A5869E3E2D8EECF11 /* Sources */,
-				3474447FAAB4D5FF153118B22A18E45D /* Frameworks */,
+				25E907AC59919BC57FB5D29B8C7C11C4 /* Sources */,
+				B5E262E42C6C52323D82510B6216BDFD /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Pods-MobShareSDK_Tests";
-			productName = "Pods-MobShareSDK_Tests";
-			productReference = A9D8B70AB437571C74DBB34586449EB2 /* libPods-MobShareSDK_Tests.a */;
+			name = "Pods-MobShareSDKTests";
+			productName = "Pods-MobShareSDKTests";
+			productReference = 6731144F73E88799C0FC7A318C44692E /* libPods-MobShareSDKTests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -1573,33 +1573,81 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0D8AC6A266C8B60C6D584BD96F318D01 /* Pods-MobShareSDK_Example */,
-				84DC2C69D97BD4A53BCBCD5983FA9391 /* Pods-MobShareSDK_Tests */,
+				0C0BFCB53DDD61F14C7305B475ACCA1F /* Pods-MobShareSDK */,
+				536394D25F6DDAA68FE536B4894142D5 /* Pods-MobShareSDKTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		235F475D0E004D4A5869E3E2D8EECF11 /* Sources */ = {
+		25E907AC59919BC57FB5D29B8C7C11C4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90A68D7EE9C1AF1E81CD776F9C681FA9 /* Pods-MobShareSDK_Tests-dummy.m in Sources */,
+				2BA8A469ADED7B178A116C241A42CDDF /* Pods-MobShareSDKTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		360A5C344244AF2474967222236230AE /* Sources */ = {
+		76027CB825391C07BD887033946B9BFB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB5C08B2EF8C7B60CDE6B49C0571BB6F /* Pods-MobShareSDK_Example-dummy.m in Sources */,
+				AC2BC54162E09DBD19A9AAFB8648E12F /* Pods-MobShareSDK-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		03CA91998D6773EC5D02B3DB87B8353E /* Release */ = {
+		22768A24DF752891671D0C1348C476F5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 47AE60496FBEB9FCF6D7BC0AF44B36B6 /* Pods-MobShareSDKTests.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		283281AC5A03414D8204F8E53F7116FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5BEE20B3D61395239181E59405A0FDA4 /* Pods-MobShareSDK.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		4D626075658E60A0B58A67615FF4ED9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9F40F22994B01D3A39A4813D8846CE60 /* Pods-MobShareSDK.debug.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		84E8F583B12A7021B95B1A6CFFC39FC3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1626,14 +1674,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		0B57334D6C23DADAA4F7D802A5760EB2 /* Debug */ = {
+		992DC5FCCD8E54F6A32EC36CDB82B211 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1665,67 +1713,19 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
 				ONLY_ACTIVE_ARCH = YES;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		3C181C87C87D935C529F9D1446EF4AD8 /* Debug */ = {
+		9AB422B3A74F26224159036BE2A933FD /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 571FFA9566898D864516D770AFDA80A7 /* Pods-MobShareSDK_Tests.debug.xcconfig */;
+			baseConfigurationReference = 09B2DCDACB195C9D9D43F25682595F86 /* Pods-MobShareSDKTests.debug.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		9FBC443E254AB13E803A2BED92E59A7A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C0B83E9CD0D051E78BDA0919A34A6BA7 /* Pods-MobShareSDK_Example.release.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		BFE9C4E51085F33F18086039AF056F99 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6F32FBA44F24C74EE573BFE1A7CA6916 /* Pods-MobShareSDK_Tests.release.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		EE64BC733E1EE277D93E8820C5DC2C77 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2B87F43296C303A78CDEB04723B37F6C /* Pods-MobShareSDK_Example.debug.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -1739,29 +1739,29 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		2AE502393B6BA0381FB2109228251ADE /* Build configuration list for PBXNativeTarget "Pods-MobShareSDKTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9AB422B3A74F26224159036BE2A933FD /* Debug */,
+				22768A24DF752891671D0C1348C476F5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0B57334D6C23DADAA4F7D802A5760EB2 /* Debug */,
-				03CA91998D6773EC5D02B3DB87B8353E /* Release */,
+				992DC5FCCD8E54F6A32EC36CDB82B211 /* Debug */,
+				84E8F583B12A7021B95B1A6CFFC39FC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6027E76985A632FFB0FD78BD8850EE1D /* Build configuration list for PBXNativeTarget "Pods-MobShareSDK_Example" */ = {
+		52FB3628F75C46F4060D80E086DE3F76 /* Build configuration list for PBXNativeTarget "Pods-MobShareSDK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EE64BC733E1EE277D93E8820C5DC2C77 /* Debug */,
-				9FBC443E254AB13E803A2BED92E59A7A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		BE040147CD259C9A957EA2ABEB197711 /* Build configuration list for PBXNativeTarget "Pods-MobShareSDK_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3C181C87C87D935C529F9D1446EF4AD8 /* Debug */,
-				BFE9C4E51085F33F18086039AF056F99 /* Release */,
+				4D626075658E60A0B58A67615FF4ED9B /* Debug */,
+				283281AC5A03414D8204F8E53F7116FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
