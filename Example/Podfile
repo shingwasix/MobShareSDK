@@ -1,4 +1,5 @@
 source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '5.1.1'
 
 target 'MobShareSDK_Example', :exclusive => true do
     pod "MobShareSDK", :path => "../"
