@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                = "MobShareSDK"
-    s.version             = "2.11.1-1"
+    s.version             = "2.11.1-2"
     s.summary             = 'ShareSDK of mob for iOS.'
     s.license             = 'Copyright © 2012-2015 mob'
     s.author              = { "shingwasix" => "https://github.com/shingwasix" }
@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
     # 核心模块
     s.subspec 'Core' do |sp|
         sp.vendored_frameworks = 'ShareSDK/Core/AGCommon.framework', 'ShareSDK/Core/MOBFoundation.framework', 'ShareSDK/Core/ShareSDKCoreService.framework'
+        sp.libraries = 'z', 'icucore'
         sp.resources = ['ShareSDK/Core/Resource.bundle', 'ShareSDK/Core/zh-Hans.lproj/ShareSDKLocalizable.strings']
     end
     
