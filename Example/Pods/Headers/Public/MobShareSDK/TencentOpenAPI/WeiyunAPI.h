@@ -1,1 +1,0 @@
-../../../../../../ShareSDK/Extend/QQConnectSDK/TencentOpenAPI.framework/Headers/WeiyunAPI.h

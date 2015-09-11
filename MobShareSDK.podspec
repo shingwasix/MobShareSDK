@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.homepage            = 'http://mob.com'
     s.source              = { :git => "https://github.com/shingwasix/MobShareSDK.git", :tag => s.version.to_s }
     s.platform            = :ios, '5.1.1'
-    s.frameworks          = 'SystemConfiguration', 'QuartzCore', 'CoreTelephony', 'Security', 'JavaScriptCore'
+    s.frameworks          = 'SystemConfiguration', 'QuartzCore', 'CoreTelephony', 'Security', 'JavaScriptCore', 'CoreText'
     s.libraries           = 'icucore', 'z.1.2.5', 'stdc++'
     s.default_subspecs    = 'Core'
     s.vendored_frameworks = 'ShareSDK/ShareSDK.framework'
@@ -70,14 +70,14 @@ Pod::Spec.new do |s|
         sp.subspec 'GooglePlusSDK' do |ssp|
             ssp.vendored_frameworks = 'ShareSDK/Extend/GooglePlusSDK/GoogleOpenSource.framework', 'ShareSDK/Extend/GooglePlusSDK/GooglePlus.framework'
             ssp.resource = 'ShareSDK/Extend/GooglePlusSDK/GooglePlus.bundle'
-            ssp.frameworks = 'CoreMotion', 'CoreLocation', 'MediaPlayer', 'CoreText', 'AssetsLibrary', 'AddressBook'
+            ssp.frameworks = 'CoreMotion', 'CoreLocation', 'MediaPlayer', 'AssetsLibrary', 'AddressBook'
         end
 
         # QQConnectSDK
         sp.subspec 'QQConnectSDK' do |ssp|
             ssp.vendored_frameworks = 'ShareSDK/Extend/QQConnectSDK/TencentOpenAPI.framework'
             ssp.resource = 'ShareSDK/Extend/QQConnectSDK/TencentOpenApi_IOS_Bundle.bundle'
-            ssp.libraries = 'stdc++', 'sqlite3'
+            ssp.libraries = 'sqlite3'
         end
 
         # SinaWeiboSDK
@@ -94,6 +94,7 @@ Pod::Spec.new do |s|
             ssp.vendored_libraries = "ShareSDK/Extend/WeChatSDK/*.a"
             ssp.source_files = "ShareSDK/Extend/WeChatSDK/*.{h,m}"
             ssp.public_header_files = "ShareSDK/Extend/WeChatSDK/*.h"
+            ssp.libraries = 'sqlite3'
         end
 
         # YiXinSDK
@@ -114,11 +115,18 @@ Pod::Spec.new do |s|
             ssp.vendored_frameworks = 'ShareSDK/Extend/RenRenSDK/RennSDK.framework'
             ssp.resource = 'ShareSDK/Extend/RenRenSDK/RennSDK.bundle'
         end
+
+        # APSocialSDK
+        sp.subspec 'APSocialSDK' do |ssp|
+            ssp.vendored_libraries = "ShareSDK/Extend/APSocialSDK/*.a"
+            ssp.source_files = "ShareSDK/Extend/APSocialSDK/*.{h,m}"
+            ssp.public_header_files = "ShareSDK/Extend/APSocialSDK/*.h"
+        end
     end
 
     # 分享和登陆平台
     s.subspec 'Connection' do |sp|
-        sp.default_subspecs = 'SMS', 'Mail', 'Copy', 'Print', 'SinaWeibo', 'WeChat', 'QQ', 'QZone', 'TencentWeibo', 'GooglePlus', 'RenRen', 'YiXin', 'Pinterest', 'Facebook', 'Dropbox', 'DouBan', 'EverNote', 'Flickr', 'Instagram', 'Instapaper', 'KaiXin', 'Sohu', 'Twitter', 'Tumblr', 'WhatsApp', 'VKontakte', 'KaKaoStory', 'KaKaoTalk', 'Line', 'LinkedIn', 'Pocket', 'MingDao', 'YouDaoNote'
+        sp.default_subspecs = 'SMS', 'Mail', 'Copy', 'Print', 'SinaWeibo', 'WeChat', 'QQ', 'QZone',  'TencentWeibo', 'GooglePlus', 'RenRen', 'YiXin', 'Pinterest', 'Facebook', 'Dropbox', 'DouBan', 'EverNote', 'Flickr', 'Instagram', 'Instapaper', 'KaiXin', 'Sohu', 'Twitter', 'Tumblr', 'WhatsApp', 'VKontakte', 'KaKaoStory', 'KaKaoTalk', 'Line', 'LinkedIn', 'Pocket', 'MingDao', 'YouDaoNote', 'AliPaySocial'
 
         # 短信
         sp.subspec 'SMS' do |ssp|
@@ -295,6 +303,12 @@ Pod::Spec.new do |s|
         # 有道云笔记
         sp.subspec 'YouDaoNote' do |ssp|
             ssp.vendored_frameworks = 'ShareSDK/Connection/YouDaoNoteConnection.framework'
+        end
+
+        # 支付宝
+        sp.subspec 'AliPaySocial' do |ssp|
+            ssp.dependency 'MobShareSDK/Extend/APSocialSDK'
+            ssp.vendored_frameworks = 'ShareSDK/Connection/AliPaySocialConnection.framework'
         end
     end
 end

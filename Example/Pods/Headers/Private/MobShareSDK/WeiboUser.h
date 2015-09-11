@@ -1,0 +1,1 @@
+../../../../../ShareSDK/Extend/SinaWeiboSDK/WeiboUser.h

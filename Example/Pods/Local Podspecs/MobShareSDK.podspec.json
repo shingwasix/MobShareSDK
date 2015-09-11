@@ -1,6 +1,6 @@
 {
   "name": "MobShareSDK",
-  "version": "2.11.1-1",
+  "version": "2.11.2",
   "summary": "ShareSDK of mob for iOS.",
   "license": "Copyright © 2012-2015 mob",
   "authors": {
@@ -9,7 +9,7 @@
   "homepage": "http://mob.com",
   "source": {
     "git": "https://github.com/shingwasix/MobShareSDK.git",
-    "tag": "2.11.1-1"
+    "tag": "2.11.2"
   },
   "platforms": {
     "ios": "5.1.1"
@@ -19,7 +19,8 @@
     "QuartzCore",
     "CoreTelephony",
     "Security",
-    "JavaScriptCore"
+    "JavaScriptCore",
+    "CoreText"
   ],
   "libraries": [
     "icucore",
@@ -35,6 +36,10 @@
         "ShareSDK/Core/AGCommon.framework",
         "ShareSDK/Core/MOBFoundation.framework",
         "ShareSDK/Core/ShareSDKCoreService.framework"
+      ],
+      "libraries": [
+        "z",
+        "icucore"
       ],
       "resources": [
         "ShareSDK/Core/Resource.bundle",
@@ -105,7 +110,6 @@
             "CoreMotion",
             "CoreLocation",
             "MediaPlayer",
-            "CoreText",
             "AssetsLibrary",
             "AddressBook"
           ]
@@ -114,10 +118,7 @@
           "name": "QQConnectSDK",
           "vendored_frameworks": "ShareSDK/Extend/QQConnectSDK/TencentOpenAPI.framework",
           "resources": "ShareSDK/Extend/QQConnectSDK/TencentOpenApi_IOS_Bundle.bundle",
-          "libraries": [
-            "stdc++",
-            "sqlite3"
-          ]
+          "libraries": "sqlite3"
         },
         {
           "name": "SinaWeiboSDK",
@@ -131,7 +132,8 @@
           "name": "WeChatSDK",
           "vendored_libraries": "ShareSDK/Extend/WeChatSDK/*.a",
           "source_files": "ShareSDK/Extend/WeChatSDK/*.{h,m}",
-          "public_header_files": "ShareSDK/Extend/WeChatSDK/*.h"
+          "public_header_files": "ShareSDK/Extend/WeChatSDK/*.h",
+          "libraries": "sqlite3"
         },
         {
           "name": "YiXinSDK",
@@ -148,6 +150,12 @@
           "name": "RenRenSDK",
           "vendored_frameworks": "ShareSDK/Extend/RenRenSDK/RennSDK.framework",
           "resources": "ShareSDK/Extend/RenRenSDK/RennSDK.bundle"
+        },
+        {
+          "name": "APSocialSDK",
+          "vendored_libraries": "ShareSDK/Extend/APSocialSDK/*.a",
+          "source_files": "ShareSDK/Extend/APSocialSDK/*.{h,m}",
+          "public_header_files": "ShareSDK/Extend/APSocialSDK/*.h"
         }
       ]
     },
@@ -186,7 +194,8 @@
         "LinkedIn",
         "Pocket",
         "MingDao",
-        "YouDaoNote"
+        "YouDaoNote",
+        "AliPaySocial"
       ],
       "subspecs": [
         {
@@ -367,6 +376,15 @@
         {
           "name": "YouDaoNote",
           "vendored_frameworks": "ShareSDK/Connection/YouDaoNoteConnection.framework"
+        },
+        {
+          "name": "AliPaySocial",
+          "dependencies": {
+            "MobShareSDK/Extend/APSocialSDK": [
+
+            ]
+          },
+          "vendored_frameworks": "ShareSDK/Connection/AliPaySocialConnection.framework"
         }
       ]
     }

@@ -11,17 +11,12 @@ ShareSDK for iOS 来自 [mob](http://mob.com)
 此项目为非官方整理，旨在降低开发者集成ShareSDK的成本。项目中所包含的ShareSDK类库均从 [mob](http://mob.com) 官网下载，本人未对其进行过任何修改。
 
 ## 版本
-2.11.1 [更新时间:2015-07-29]
+2.11.2 [更新时间:2015-08-10]
 
-## 更新说明
-1. 新浪微博客户端授权支持添加scopes权限
-2. 分享菜单栏自动隐藏没有安装客户端又需要客户端才能分享的平台
-3. iPad下新浪微博的网页授权页面置于屏幕中间
-4. LinkedIn获取用户信息时新增获取邮箱地址数据
-5. 修复第三方SDK的JSONKit可能导致的冲突
-6. 修复打印平台可能打出空白纸
-7. 修复GooglePlus授权分享回调错误
-8. 移除腾讯微博SDK（腾讯微博SDK目前无法正常使用）
+## 官方更新说明
+1. 新增支付宝朋友分享平台。
+2. 评论和赞SDK支持本地化。
+3. 只集成需要客户端分享的平台，在设备没有安装任何一个平台客户端下，不显示分享菜单栏并产生错误回调。
 
 ## 兼容平台
 iOS 5.1.1 及以上
@@ -120,6 +115,8 @@ pod 'MobShareSDK/Connection/Pocket'
 pod 'MobShareSDK/Connection/MingDao'
 # 有道云笔记(可选)
 pod 'MobShareSDK/Connection/YouDaoNote'
+# 支付宝(可选)
+pod 'MobShareSDK/Connection/QZone'
 ```
 安装`MobShareSDK/UI`模块可使用所有UI界面，安装`MobShareSDK/Connection`模块可使用所有分享平台。但鉴于安装所有分享平台模块会使得应用变得非常庞大，所以不推荐大家使用这种方式安装。开发者可根据自己的需求安装引入指定的分享模块，这样可使应用体积保持小巧。
 
@@ -134,7 +131,7 @@ pod 'MobShareSDK/Connection/WeChat'
 ```
 
 ## 官方下载
-http://mob.com/Download/detail?type=1&plat=2
+http://mob.com/#/downloadDetail/ShareSDK/ios
 
 ## 官方开发文档
 http://wiki.mob.com/%E5%BF%AB%E9%80%9F%E9%9B%86%E6%88%90%E6%8C%87%E5%8D%97/
