@@ -116,7 +116,7 @@ pod 'MobShareSDK/Connection/MingDao'
 # 有道云笔记(可选)
 pod 'MobShareSDK/Connection/YouDaoNote'
 # 支付宝(可选)
-pod 'MobShareSDK/Connection/QZone'
+pod 'MobShareSDK/Connection/AliPaySocial'
 ```
 安装`MobShareSDK/UI`模块可使用所有UI界面，安装`MobShareSDK/Connection`模块可使用所有分享平台。但鉴于安装所有分享平台模块会使得应用变得非常庞大，所以不推荐大家使用这种方式安装。开发者可根据自己的需求安装引入指定的分享模块，这样可使应用体积保持小巧。
 
