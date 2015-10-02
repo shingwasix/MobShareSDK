@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusCoverPhotoReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusCoverPhotoReader.h

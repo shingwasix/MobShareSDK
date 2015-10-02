@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontakteErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontakteErrorInfo.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TencentWeiboConnection.framework/Headers/TencentWeiboConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/TencentWeiboConnection.framework/Headers/TencentWeiboConnection.h

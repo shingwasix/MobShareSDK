@@ -1,1 +1,1 @@
-../../../../../ShareSDK/Extend/WeChatSDK/WXApiObject.h
+../../../../../Official-Sources/ShareSDK/Extend/WeChatSDK/WXApiObject.h

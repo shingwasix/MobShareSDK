@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookPhotoReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookPhotoReader.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/ShareSDKCoreService.framework/Headers/ISSCOAuthParameters.h
+../../../../../../Official-Sources/ShareSDK/Core/ShareSDKCoreService.framework/Headers/ISSCOAuthParameters.h

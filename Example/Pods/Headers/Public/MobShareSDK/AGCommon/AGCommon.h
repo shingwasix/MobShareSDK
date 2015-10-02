@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/AGCommon.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/AGCommon.h

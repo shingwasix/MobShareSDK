@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TencentWeiboConnection.framework/Headers/SSTencentWeiboCareerReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/TencentWeiboConnection.framework/Headers/SSTencentWeiboCareerReader.h

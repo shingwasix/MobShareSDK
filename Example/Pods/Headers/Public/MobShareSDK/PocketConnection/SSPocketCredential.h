@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/PocketConnection.framework/Headers/SSPocketCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/PocketConnection.framework/Headers/SSPocketCredential.h

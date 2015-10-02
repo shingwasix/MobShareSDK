@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TwitterConnection.framework/Headers/SSTwitterErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/TwitterConnection.framework/Headers/SSTwitterErrorInfo.h

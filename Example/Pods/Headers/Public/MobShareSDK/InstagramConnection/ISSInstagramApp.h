@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/InstagramConnection.framework/Headers/ISSInstagramApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/InstagramConnection.framework/Headers/ISSInstagramApp.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/ISSPlatformCredential.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/ISSPlatformCredential.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/LineConnection.framework/Headers/SSLineErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/LineConnection.framework/Headers/SSLineErrorInfo.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/MOBFoundation.framework/Headers/MOBFPluginManager.h
+../../../../../../Official-Sources/ShareSDK/Core/MOBFoundation.framework/Headers/MOBFPluginManager.h

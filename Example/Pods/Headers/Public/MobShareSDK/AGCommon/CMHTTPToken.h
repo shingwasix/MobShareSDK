@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMHTTPToken.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMHTTPToken.h

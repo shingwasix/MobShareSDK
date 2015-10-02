@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/ShareSDKCoreService.framework/Headers/SSCDataObject.h
+../../../../../../Official-Sources/ShareSDK/Core/ShareSDKCoreService.framework/Headers/SSCDataObject.h

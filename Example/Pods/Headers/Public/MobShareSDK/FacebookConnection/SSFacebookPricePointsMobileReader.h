@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookPricePointsMobileReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookPricePointsMobileReader.h

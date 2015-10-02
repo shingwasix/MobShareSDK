@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/DouBanConnection.framework/Headers/SSDouBanMusicReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/DouBanConnection.framework/Headers/SSDouBanMusicReader.h

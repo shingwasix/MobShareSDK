@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/MingDaoConnection.framework/Headers/SSMingDaoErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/MingDaoConnection.framework/Headers/SSMingDaoErrorInfo.h

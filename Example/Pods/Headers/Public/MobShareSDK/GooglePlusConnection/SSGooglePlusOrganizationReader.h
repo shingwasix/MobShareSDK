@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusOrganizationReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/GooglePlusConnection.framework/Headers/SSGooglePlusOrganizationReader.h

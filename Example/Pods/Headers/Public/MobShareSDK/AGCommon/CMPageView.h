@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMPageView.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMPageView.h

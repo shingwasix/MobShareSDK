@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TencentWeiboConnection.framework/Headers/SSTencentWeiboVideoReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/TencentWeiboConnection.framework/Headers/SSTencentWeiboVideoReader.h

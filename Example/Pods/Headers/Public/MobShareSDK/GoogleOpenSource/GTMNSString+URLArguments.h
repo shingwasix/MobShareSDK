@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Extend/GooglePlusSDK/GoogleOpenSource.framework/Versions/A/Headers/GTMNSString+URLArguments.h
+../../../../../../Official-Sources/ShareSDK/Extend/GooglePlusSDK/GoogleOpenSource.framework/Versions/A/Headers/GTMNSString+URLArguments.h

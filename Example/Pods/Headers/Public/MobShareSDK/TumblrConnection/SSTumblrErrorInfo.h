@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrErrorInfo.h

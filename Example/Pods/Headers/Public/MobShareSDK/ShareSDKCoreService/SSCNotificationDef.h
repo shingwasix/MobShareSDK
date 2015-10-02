@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/ShareSDKCoreService.framework/Headers/SSCNotificationDef.h
+../../../../../../Official-Sources/ShareSDK/Core/ShareSDKCoreService.framework/Headers/SSCNotificationDef.h

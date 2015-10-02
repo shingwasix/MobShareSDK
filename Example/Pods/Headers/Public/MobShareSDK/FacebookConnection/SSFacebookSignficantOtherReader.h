@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookSignficantOtherReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookSignficantOtherReader.h

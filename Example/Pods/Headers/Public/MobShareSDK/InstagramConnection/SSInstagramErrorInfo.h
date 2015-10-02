@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/InstagramConnection.framework/Headers/SSInstagramErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/InstagramConnection.framework/Headers/SSInstagramErrorInfo.h

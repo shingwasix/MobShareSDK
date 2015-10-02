@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/ShareSDKPlugin.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/ShareSDKPlugin.h

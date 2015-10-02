@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Extend/RenRenSDK/RennSDK.framework/Headers/RennLoginService.h
+../../../../../../Official-Sources/ShareSDK/Extend/RenRenSDK/RennSDK.framework/Headers/RennLoginService.h

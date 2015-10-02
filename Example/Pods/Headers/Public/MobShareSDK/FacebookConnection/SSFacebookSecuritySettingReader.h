@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookSecuritySettingReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/FacebookConnection.framework/Headers/SSFacebookSecuritySettingReader.h

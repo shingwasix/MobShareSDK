@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Extend/GooglePlusSDK/GoogleOpenSource.framework/Versions/A/Headers/GTMOAuth2Authentication.h
+../../../../../../Official-Sources/ShareSDK/Extend/GooglePlusSDK/GoogleOpenSource.framework/Versions/A/Headers/GTMOAuth2Authentication.h

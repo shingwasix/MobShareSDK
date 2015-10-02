@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/AliPaySocialConnection.framework/Headers/SSAliPaySocialErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/AliPaySocialConnection.framework/Headers/SSAliPaySocialErrorInfo.h

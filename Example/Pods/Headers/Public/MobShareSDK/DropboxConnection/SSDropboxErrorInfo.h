@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxErrorInfo.h

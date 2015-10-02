@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontaktePhoto.h
+../../../../../../Official-Sources/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontaktePhoto.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SSSinaWeiboTagReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SSSinaWeiboTagReader.h

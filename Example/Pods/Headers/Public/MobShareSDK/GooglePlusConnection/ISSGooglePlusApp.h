@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/GooglePlusConnection.framework/Headers/ISSGooglePlusApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/GooglePlusConnection.framework/Headers/ISSGooglePlusApp.h

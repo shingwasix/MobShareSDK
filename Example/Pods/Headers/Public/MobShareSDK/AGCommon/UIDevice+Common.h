@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/UIDevice+Common.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/UIDevice+Common.h

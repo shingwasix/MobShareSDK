@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TencentWeiboConnection.framework/Headers/SSTencentWeiboMusicReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/TencentWeiboConnection.framework/Headers/SSTencentWeiboMusicReader.h

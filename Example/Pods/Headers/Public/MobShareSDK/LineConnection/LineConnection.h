@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/LineConnection.framework/Headers/LineConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/LineConnection.framework/Headers/LineConnection.h

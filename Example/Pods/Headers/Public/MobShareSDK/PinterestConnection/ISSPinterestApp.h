@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/PinterestConnection.framework/Headers/ISSPinterestApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/PinterestConnection.framework/Headers/ISSPinterestApp.h

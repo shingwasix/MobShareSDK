@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CoreDefinition.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CoreDefinition.h

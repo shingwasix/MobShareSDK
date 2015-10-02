@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/DouBanConnection.framework/Headers/SSDouBanUserReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/DouBanConnection.framework/Headers/SSDouBanUserReader.h

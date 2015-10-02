@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Extend/RenRenSDK/RennSDK.framework/Headers/RennHttpRequest.h
+../../../../../../Official-Sources/ShareSDK/Extend/RenRenSDK/RennSDK.framework/Headers/RennHttpRequest.h

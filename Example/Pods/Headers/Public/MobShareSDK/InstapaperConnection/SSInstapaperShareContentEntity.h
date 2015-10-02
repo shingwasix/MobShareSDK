@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperShareContentEntity.h
+../../../../../../Official-Sources/ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperShareContentEntity.h

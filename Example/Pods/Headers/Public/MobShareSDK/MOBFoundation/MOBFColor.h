@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/MOBFoundation.framework/Headers/MOBFColor.h
+../../../../../../Official-Sources/ShareSDK/Core/MOBFoundation.framework/Headers/MOBFColor.h

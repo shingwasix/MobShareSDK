@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/CopyConnection.framework/Headers/CopyConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/CopyConnection.framework/Headers/CopyConnection.h

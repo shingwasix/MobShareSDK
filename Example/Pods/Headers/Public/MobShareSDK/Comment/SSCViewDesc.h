@@ -1,1 +1,1 @@
-../../../../../../Comment/Comment.framework/Headers/SSCViewDesc.h
+../../../../../../Official-Sources/Comment/Comment.framework/Headers/SSCViewDesc.h

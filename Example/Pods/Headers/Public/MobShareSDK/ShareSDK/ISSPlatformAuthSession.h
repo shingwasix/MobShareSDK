@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/ISSPlatformAuthSession.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/ISSPlatformAuthSession.h

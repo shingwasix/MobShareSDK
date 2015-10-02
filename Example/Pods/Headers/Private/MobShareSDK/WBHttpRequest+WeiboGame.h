@@ -1,1 +1,1 @@
-../../../../../ShareSDK/Extend/SinaWeiboSDK/WBHttpRequest+WeiboGame.h
+../../../../../Official-Sources/ShareSDK/Extend/SinaWeiboSDK/WBHttpRequest+WeiboGame.h

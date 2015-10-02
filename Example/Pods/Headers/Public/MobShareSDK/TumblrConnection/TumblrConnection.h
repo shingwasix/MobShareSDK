@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TumblrConnection.framework/Headers/TumblrConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/TumblrConnection.framework/Headers/TumblrConnection.h

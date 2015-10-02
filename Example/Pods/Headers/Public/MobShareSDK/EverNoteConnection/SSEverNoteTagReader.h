@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/EverNoteConnection.framework/Headers/SSEverNoteTagReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/EverNoteConnection.framework/Headers/SSEverNoteTagReader.h

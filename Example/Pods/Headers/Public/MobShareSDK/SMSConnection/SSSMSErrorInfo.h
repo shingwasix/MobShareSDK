@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/SMSConnection.framework/Headers/SSSMSErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/SMSConnection.framework/Headers/SSSMSErrorInfo.h

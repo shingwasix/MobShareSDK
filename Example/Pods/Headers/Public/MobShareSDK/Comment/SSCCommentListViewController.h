@@ -1,1 +1,1 @@
-../../../../../../Comment/Comment.framework/Headers/SSCCommentListViewController.h
+../../../../../../Official-Sources/Comment/Comment.framework/Headers/SSCCommentListViewController.h

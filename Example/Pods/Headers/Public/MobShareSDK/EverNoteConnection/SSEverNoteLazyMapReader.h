@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/EverNoteConnection.framework/Headers/SSEverNoteLazyMapReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/EverNoteConnection.framework/Headers/SSEverNoteLazyMapReader.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInUser.h
+../../../../../../Official-Sources/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInUser.h

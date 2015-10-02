@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TwitterConnection.framework/Headers/ISSTwitterApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/TwitterConnection.framework/Headers/ISSTwitterApp.h

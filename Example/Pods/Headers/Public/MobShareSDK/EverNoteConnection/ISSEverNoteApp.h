@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/EverNoteConnection.framework/Headers/ISSEverNoteApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/EverNoteConnection.framework/Headers/ISSEverNoteApp.h

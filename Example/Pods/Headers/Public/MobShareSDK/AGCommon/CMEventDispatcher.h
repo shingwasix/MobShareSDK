@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMEventDispatcher.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMEventDispatcher.h

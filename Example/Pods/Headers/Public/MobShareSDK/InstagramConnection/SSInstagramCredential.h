@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/InstagramConnection.framework/Headers/SSInstagramCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/InstagramConnection.framework/Headers/SSInstagramCredential.h

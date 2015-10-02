@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/MingDaoConnection.framework/Headers/MingDaoConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/MingDaoConnection.framework/Headers/MingDaoConnection.h

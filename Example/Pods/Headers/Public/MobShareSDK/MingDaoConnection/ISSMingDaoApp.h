@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/MingDaoConnection.framework/Headers/ISSMingDaoApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/MingDaoConnection.framework/Headers/ISSMingDaoApp.h

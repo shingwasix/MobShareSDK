@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/MOBFoundation.framework/Headers/MOBFHttpService.h
+../../../../../../Official-Sources/ShareSDK/Core/MOBFoundation.framework/Headers/MOBFHttpService.h

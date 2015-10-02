@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/NSString+Common.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/NSString+Common.h

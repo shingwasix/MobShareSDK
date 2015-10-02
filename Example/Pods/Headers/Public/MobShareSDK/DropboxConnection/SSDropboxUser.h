@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxUser.h
+../../../../../../Official-Sources/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxUser.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinRecord.h
+../../../../../../Official-Sources/ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinRecord.h

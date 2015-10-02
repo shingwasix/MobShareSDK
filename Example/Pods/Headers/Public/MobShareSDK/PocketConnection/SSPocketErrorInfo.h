@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/PocketConnection.framework/Headers/SSPocketErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/PocketConnection.framework/Headers/SSPocketErrorInfo.h

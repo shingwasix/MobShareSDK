@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrUser.h
+../../../../../../Official-Sources/ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrUser.h

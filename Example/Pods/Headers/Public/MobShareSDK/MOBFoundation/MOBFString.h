@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/MOBFoundation.framework/Headers/MOBFString.h
+../../../../../../Official-Sources/ShareSDK/Core/MOBFoundation.framework/Headers/MOBFString.h

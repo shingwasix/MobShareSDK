@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/YiXinConnection.framework/Headers/SSYiXinTypeDef.h
+../../../../../../Official-Sources/ShareSDK/Connection/YiXinConnection.framework/Headers/SSYiXinTypeDef.h

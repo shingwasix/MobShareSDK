@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/ISSYouDaoNoteAuthSession.h
+../../../../../../Official-Sources/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/ISSYouDaoNoteAuthSession.h

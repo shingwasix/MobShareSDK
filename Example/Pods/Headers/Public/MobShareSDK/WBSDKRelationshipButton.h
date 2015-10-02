@@ -1,1 +1,1 @@
-../../../../../ShareSDK/Extend/SinaWeiboSDK/WBSDKRelationshipButton.h
+../../../../../Official-Sources/ShareSDK/Extend/SinaWeiboSDK/WBSDKRelationshipButton.h

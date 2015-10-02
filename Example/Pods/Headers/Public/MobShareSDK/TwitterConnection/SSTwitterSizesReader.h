@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TwitterConnection.framework/Headers/SSTwitterSizesReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/TwitterConnection.framework/Headers/SSTwitterSizesReader.h

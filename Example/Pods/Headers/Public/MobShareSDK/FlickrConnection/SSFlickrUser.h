@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrUser.h
+../../../../../../Official-Sources/ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrUser.h

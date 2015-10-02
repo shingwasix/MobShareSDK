@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/WeChatConnection.framework/Headers/SSWeChatTypeDef.h
+../../../../../../Official-Sources/ShareSDK/Connection/WeChatConnection.framework/Headers/SSWeChatTypeDef.h

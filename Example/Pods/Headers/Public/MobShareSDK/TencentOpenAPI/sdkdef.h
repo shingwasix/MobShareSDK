@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Extend/QQConnectSDK/TencentOpenAPI.framework/Headers/sdkdef.h
+../../../../../../Official-Sources/ShareSDK/Extend/QQConnectSDK/TencentOpenAPI.framework/Headers/sdkdef.h

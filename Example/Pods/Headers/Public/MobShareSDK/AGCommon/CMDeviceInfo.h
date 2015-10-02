@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMDeviceInfo.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMDeviceInfo.h

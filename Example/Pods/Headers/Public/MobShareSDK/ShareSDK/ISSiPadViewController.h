@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/ISSiPadViewController.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/ISSiPadViewController.h

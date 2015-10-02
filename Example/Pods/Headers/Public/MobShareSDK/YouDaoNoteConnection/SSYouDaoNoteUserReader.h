@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteUserReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteUserReader.h

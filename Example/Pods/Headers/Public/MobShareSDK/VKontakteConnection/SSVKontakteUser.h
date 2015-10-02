@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontakteUser.h
+../../../../../../Official-Sources/ShareSDK/Connection/VKontakteConnection.framework/Headers/SSVKontakteUser.h

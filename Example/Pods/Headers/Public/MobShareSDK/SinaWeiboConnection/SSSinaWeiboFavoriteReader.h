@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SSSinaWeiboFavoriteReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SSSinaWeiboFavoriteReader.h

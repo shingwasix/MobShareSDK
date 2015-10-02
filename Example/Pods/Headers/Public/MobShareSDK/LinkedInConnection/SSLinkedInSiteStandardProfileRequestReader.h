@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInSiteStandardProfileRequestReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/LinkedInConnection.framework/Headers/SSLinkedInSiteStandardProfileRequestReader.h

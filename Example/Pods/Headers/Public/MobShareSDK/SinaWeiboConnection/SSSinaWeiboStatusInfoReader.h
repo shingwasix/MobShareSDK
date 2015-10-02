@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SSSinaWeiboStatusInfoReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SSSinaWeiboStatusInfoReader.h

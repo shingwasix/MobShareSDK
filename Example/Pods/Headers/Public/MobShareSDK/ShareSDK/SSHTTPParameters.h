@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/SSHTTPParameters.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/SSHTTPParameters.h

@@ -8,15 +8,19 @@
 ShareSDK for iOS 来自 [mob](http://mob.com)
 
 ## 简介
-此项目为非官方整理，旨在降低开发者集成ShareSDK的成本。项目中所包含的ShareSDK类库均从 [mob](http://mob.com) 官网下载，本人未对其进行过任何修改。
+此为非官方整理用于CocoaPods部署的项目，旨在降低开发者集成ShareSDK的成本。项目中Official-Sources下的文件为[mob](http://mob.com) 官网下载的SDK文件，其中，为了通过pod的验证，ShareSDK/UI下的framework目录下补充了缺失的Headers文件夹。
 
 ## 版本
-2.11.2 [更新时间:2015-08-10]
+2.12.0 [更新时间:2015-09-30]
 
 ## 官方更新说明
-1. 新增支付宝朋友分享平台。
-2. 评论和赞SDK支持本地化。
-3. 只集成需要客户端分享的平台，在设备没有安装任何一个平台客户端下，不显示分享菜单栏并产生错误回调。
+1、适配iOS9。
+2、新增Facebook的邀请好友使用应用功能。
+3、取消对“搜狐随身看”平台的支持（已经无法正常使用）。
+4、解决ShareSDK和xy，iTools的SDK的兼容问题。
+5、Facebook获取用户信息接口新增token_for_bussiness字段。
+
+[iOS9-对ShareSDK的影响（适配iOS-9必读）](http://wiki.mob.com/ios9-%E5%AF%B9sharesdk%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%88%E9%80%82%E9%85%8Dios-9%E5%BF%85%E8%AF%BB%EF%BC%89/)
 
 ## 兼容平台
 iOS 5.1.1 及以上
@@ -91,8 +95,6 @@ pod 'MobShareSDK/Connection/Instagram'
 pod 'MobShareSDK/Connection/Instapaper'
 # 开心网(可选)
 pod 'MobShareSDK/Connection/KaiXin'
-# 搜狐(可选)
-pod 'MobShareSDK/Connection/Sohu'
 # Twitter(可选)
 pod 'MobShareSDK/Connection/Twitter'
 # Tumblr(可选)

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperCredential.h

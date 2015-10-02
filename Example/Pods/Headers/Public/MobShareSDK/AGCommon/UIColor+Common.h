@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/UIColor+Common.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/UIColor+Common.h

@@ -1,107 +1,105 @@
 PODS:
-  - MobShareSDK (2.11.2):
-    - MobShareSDK/Core (= 2.11.2)
-  - MobShareSDK/Comment (2.11.2)
-  - MobShareSDK/Connection (2.11.2):
-    - MobShareSDK/Connection/AliPaySocial (= 2.11.2)
-    - MobShareSDK/Connection/Copy (= 2.11.2)
-    - MobShareSDK/Connection/DouBan (= 2.11.2)
-    - MobShareSDK/Connection/Dropbox (= 2.11.2)
-    - MobShareSDK/Connection/EverNote (= 2.11.2)
-    - MobShareSDK/Connection/Facebook (= 2.11.2)
-    - MobShareSDK/Connection/Flickr (= 2.11.2)
-    - MobShareSDK/Connection/GooglePlus (= 2.11.2)
-    - MobShareSDK/Connection/Instagram (= 2.11.2)
-    - MobShareSDK/Connection/Instapaper (= 2.11.2)
-    - MobShareSDK/Connection/KaiXin (= 2.11.2)
-    - MobShareSDK/Connection/KaKaoStory (= 2.11.2)
-    - MobShareSDK/Connection/KaKaoTalk (= 2.11.2)
-    - MobShareSDK/Connection/Line (= 2.11.2)
-    - MobShareSDK/Connection/LinkedIn (= 2.11.2)
-    - MobShareSDK/Connection/Mail (= 2.11.2)
-    - MobShareSDK/Connection/MingDao (= 2.11.2)
-    - MobShareSDK/Connection/Pinterest (= 2.11.2)
-    - MobShareSDK/Connection/Pocket (= 2.11.2)
-    - MobShareSDK/Connection/Print (= 2.11.2)
-    - MobShareSDK/Connection/QQ (= 2.11.2)
-    - MobShareSDK/Connection/QZone (= 2.11.2)
-    - MobShareSDK/Connection/RenRen (= 2.11.2)
-    - MobShareSDK/Connection/SinaWeibo (= 2.11.2)
-    - MobShareSDK/Connection/SMS (= 2.11.2)
-    - MobShareSDK/Connection/Sohu (= 2.11.2)
-    - MobShareSDK/Connection/TencentWeibo (= 2.11.2)
-    - MobShareSDK/Connection/Tumblr (= 2.11.2)
-    - MobShareSDK/Connection/Twitter (= 2.11.2)
-    - MobShareSDK/Connection/VKontakte (= 2.11.2)
-    - MobShareSDK/Connection/WeChat (= 2.11.2)
-    - MobShareSDK/Connection/WhatsApp (= 2.11.2)
-    - MobShareSDK/Connection/YiXin (= 2.11.2)
-    - MobShareSDK/Connection/YouDaoNote (= 2.11.2)
-  - MobShareSDK/Connection/AliPaySocial (2.11.2):
+  - MobShareSDK (2.12.0):
+    - MobShareSDK/Core (= 2.12.0)
+  - MobShareSDK/Comment (2.12.0)
+  - MobShareSDK/Connection (2.12.0):
+    - MobShareSDK/Connection/AliPaySocial (= 2.12.0)
+    - MobShareSDK/Connection/Copy (= 2.12.0)
+    - MobShareSDK/Connection/DouBan (= 2.12.0)
+    - MobShareSDK/Connection/Dropbox (= 2.12.0)
+    - MobShareSDK/Connection/EverNote (= 2.12.0)
+    - MobShareSDK/Connection/Facebook (= 2.12.0)
+    - MobShareSDK/Connection/Flickr (= 2.12.0)
+    - MobShareSDK/Connection/GooglePlus (= 2.12.0)
+    - MobShareSDK/Connection/Instagram (= 2.12.0)
+    - MobShareSDK/Connection/Instapaper (= 2.12.0)
+    - MobShareSDK/Connection/KaiXin (= 2.12.0)
+    - MobShareSDK/Connection/KaKaoStory (= 2.12.0)
+    - MobShareSDK/Connection/KaKaoTalk (= 2.12.0)
+    - MobShareSDK/Connection/Line (= 2.12.0)
+    - MobShareSDK/Connection/LinkedIn (= 2.12.0)
+    - MobShareSDK/Connection/Mail (= 2.12.0)
+    - MobShareSDK/Connection/MingDao (= 2.12.0)
+    - MobShareSDK/Connection/Pinterest (= 2.12.0)
+    - MobShareSDK/Connection/Pocket (= 2.12.0)
+    - MobShareSDK/Connection/Print (= 2.12.0)
+    - MobShareSDK/Connection/QQ (= 2.12.0)
+    - MobShareSDK/Connection/QZone (= 2.12.0)
+    - MobShareSDK/Connection/RenRen (= 2.12.0)
+    - MobShareSDK/Connection/SinaWeibo (= 2.12.0)
+    - MobShareSDK/Connection/SMS (= 2.12.0)
+    - MobShareSDK/Connection/TencentWeibo (= 2.12.0)
+    - MobShareSDK/Connection/Tumblr (= 2.12.0)
+    - MobShareSDK/Connection/Twitter (= 2.12.0)
+    - MobShareSDK/Connection/VKontakte (= 2.12.0)
+    - MobShareSDK/Connection/WeChat (= 2.12.0)
+    - MobShareSDK/Connection/WhatsApp (= 2.12.0)
+    - MobShareSDK/Connection/YiXin (= 2.12.0)
+    - MobShareSDK/Connection/YouDaoNote (= 2.12.0)
+  - MobShareSDK/Connection/AliPaySocial (2.12.0):
     - MobShareSDK/Extend/APSocialSDK
-  - MobShareSDK/Connection/Copy (2.11.2)
-  - MobShareSDK/Connection/DouBan (2.11.2)
-  - MobShareSDK/Connection/Dropbox (2.11.2)
-  - MobShareSDK/Connection/EverNote (2.11.2)
-  - MobShareSDK/Connection/Facebook (2.11.2)
-  - MobShareSDK/Connection/Flickr (2.11.2)
-  - MobShareSDK/Connection/GooglePlus (2.11.2):
+  - MobShareSDK/Connection/Copy (2.12.0)
+  - MobShareSDK/Connection/DouBan (2.12.0)
+  - MobShareSDK/Connection/Dropbox (2.12.0)
+  - MobShareSDK/Connection/EverNote (2.12.0)
+  - MobShareSDK/Connection/Facebook (2.12.0)
+  - MobShareSDK/Connection/Flickr (2.12.0)
+  - MobShareSDK/Connection/GooglePlus (2.12.0):
     - MobShareSDK/Extend/GooglePlusSDK
-  - MobShareSDK/Connection/Instagram (2.11.2)
-  - MobShareSDK/Connection/Instapaper (2.11.2)
-  - MobShareSDK/Connection/KaiXin (2.11.2)
-  - MobShareSDK/Connection/KaKaoStory (2.11.2)
-  - MobShareSDK/Connection/KaKaoTalk (2.11.2)
-  - MobShareSDK/Connection/Line (2.11.2)
-  - MobShareSDK/Connection/LinkedIn (2.11.2)
-  - MobShareSDK/Connection/Mail (2.11.2)
-  - MobShareSDK/Connection/MingDao (2.11.2)
-  - MobShareSDK/Connection/Pinterest (2.11.2):
+  - MobShareSDK/Connection/Instagram (2.12.0)
+  - MobShareSDK/Connection/Instapaper (2.12.0)
+  - MobShareSDK/Connection/KaiXin (2.12.0)
+  - MobShareSDK/Connection/KaKaoStory (2.12.0)
+  - MobShareSDK/Connection/KaKaoTalk (2.12.0)
+  - MobShareSDK/Connection/Line (2.12.0)
+  - MobShareSDK/Connection/LinkedIn (2.12.0)
+  - MobShareSDK/Connection/Mail (2.12.0)
+  - MobShareSDK/Connection/MingDao (2.12.0)
+  - MobShareSDK/Connection/Pinterest (2.12.0):
     - MobShareSDK/Extend/Pinterest.embeddedframework
-  - MobShareSDK/Connection/Pocket (2.11.2)
-  - MobShareSDK/Connection/Print (2.11.2)
-  - MobShareSDK/Connection/QQ (2.11.2):
+  - MobShareSDK/Connection/Pocket (2.12.0)
+  - MobShareSDK/Connection/Print (2.12.0)
+  - MobShareSDK/Connection/QQ (2.12.0):
     - MobShareSDK/Extend/QQConnectSDK
-  - MobShareSDK/Connection/QZone (2.11.2):
+  - MobShareSDK/Connection/QZone (2.12.0):
     - MobShareSDK/Extend/QQConnectSDK
-  - MobShareSDK/Connection/RenRen (2.11.2):
+  - MobShareSDK/Connection/RenRen (2.12.0):
     - MobShareSDK/Extend/RenRenSDK
-  - MobShareSDK/Connection/SinaWeibo (2.11.2):
+  - MobShareSDK/Connection/SinaWeibo (2.12.0):
     - MobShareSDK/Extend/SinaWeiboSDK
-  - MobShareSDK/Connection/SMS (2.11.2)
-  - MobShareSDK/Connection/Sohu (2.11.2)
-  - MobShareSDK/Connection/TencentWeibo (2.11.2)
-  - MobShareSDK/Connection/Tumblr (2.11.2)
-  - MobShareSDK/Connection/Twitter (2.11.2)
-  - MobShareSDK/Connection/VKontakte (2.11.2)
-  - MobShareSDK/Connection/WeChat (2.11.2):
+  - MobShareSDK/Connection/SMS (2.12.0)
+  - MobShareSDK/Connection/TencentWeibo (2.12.0)
+  - MobShareSDK/Connection/Tumblr (2.12.0)
+  - MobShareSDK/Connection/Twitter (2.12.0)
+  - MobShareSDK/Connection/VKontakte (2.12.0)
+  - MobShareSDK/Connection/WeChat (2.12.0):
     - MobShareSDK/Extend/WeChatSDK
-  - MobShareSDK/Connection/WhatsApp (2.11.2)
-  - MobShareSDK/Connection/YiXin (2.11.2):
+  - MobShareSDK/Connection/WhatsApp (2.12.0)
+  - MobShareSDK/Connection/YiXin (2.12.0):
     - MobShareSDK/Extend/YiXinSDK
-  - MobShareSDK/Connection/YouDaoNote (2.11.2)
-  - MobShareSDK/Core (2.11.2)
-  - MobShareSDK/Extend/APSocialSDK (2.11.2)
-  - MobShareSDK/Extend/GooglePlusSDK (2.11.2)
-  - MobShareSDK/Extend/Pinterest.embeddedframework (2.11.2)
-  - MobShareSDK/Extend/QQConnectSDK (2.11.2)
-  - MobShareSDK/Extend/RenRenSDK (2.11.2)
-  - MobShareSDK/Extend/SinaWeiboSDK (2.11.2)
-  - MobShareSDK/Extend/WeChatSDK (2.11.2)
-  - MobShareSDK/Extend/YiXinSDK (2.11.2)
-  - MobShareSDK/UI (2.11.2):
-    - MobShareSDK/UI/Flat (= 2.11.2)
-    - MobShareSDK/UI/iPadDefault (= 2.11.2)
-    - MobShareSDK/UI/iPadSimple (= 2.11.2)
-    - MobShareSDK/UI/iPhoneAppRecommend (= 2.11.2)
-    - MobShareSDK/UI/iPhoneDefault (= 2.11.2)
-    - MobShareSDK/UI/iPhoneSimple (= 2.11.2)
-  - MobShareSDK/UI/Flat (2.11.2)
-  - MobShareSDK/UI/iPadDefault (2.11.2)
-  - MobShareSDK/UI/iPadSimple (2.11.2)
-  - MobShareSDK/UI/iPhoneAppRecommend (2.11.2)
-  - MobShareSDK/UI/iPhoneDefault (2.11.2)
-  - MobShareSDK/UI/iPhoneSimple (2.11.2)
+  - MobShareSDK/Connection/YouDaoNote (2.12.0)
+  - MobShareSDK/Core (2.12.0)
+  - MobShareSDK/Extend/APSocialSDK (2.12.0)
+  - MobShareSDK/Extend/GooglePlusSDK (2.12.0)
+  - MobShareSDK/Extend/Pinterest.embeddedframework (2.12.0)
+  - MobShareSDK/Extend/QQConnectSDK (2.12.0)
+  - MobShareSDK/Extend/RenRenSDK (2.12.0)
+  - MobShareSDK/Extend/SinaWeiboSDK (2.12.0)
+  - MobShareSDK/Extend/WeChatSDK (2.12.0)
+  - MobShareSDK/Extend/YiXinSDK (2.12.0)
+  - MobShareSDK/UI (2.12.0):
+    - MobShareSDK/UI/Flat (= 2.12.0)
+    - MobShareSDK/UI/iPadDefault (= 2.12.0)
+    - MobShareSDK/UI/iPadSimple (= 2.12.0)
+    - MobShareSDK/UI/iPhoneAppRecommend (= 2.12.0)
+    - MobShareSDK/UI/iPhoneDefault (= 2.12.0)
+    - MobShareSDK/UI/iPhoneSimple (= 2.12.0)
+  - MobShareSDK/UI/Flat (2.12.0)
+  - MobShareSDK/UI/iPadDefault (2.12.0)
+  - MobShareSDK/UI/iPadSimple (2.12.0)
+  - MobShareSDK/UI/iPhoneAppRecommend (2.12.0)
+  - MobShareSDK/UI/iPhoneDefault (2.12.0)
+  - MobShareSDK/UI/iPhoneSimple (2.12.0)
 
 DEPENDENCIES:
   - MobShareSDK (from `../`)
@@ -114,6 +112,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MobShareSDK: 433b5f6618ebe7b2267cd025d7bc2f5abdd13e17
+  MobShareSDK: 437b4e0cd031c38afe079af7463d9deded092190
 
 COCOAPODS: 0.38.2

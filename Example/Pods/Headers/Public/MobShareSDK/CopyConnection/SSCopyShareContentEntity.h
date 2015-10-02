@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/CopyConnection.framework/Headers/SSCopyShareContentEntity.h
+../../../../../../Official-Sources/ShareSDK/Connection/CopyConnection.framework/Headers/SSCopyShareContentEntity.h

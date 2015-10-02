@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinCredential.h

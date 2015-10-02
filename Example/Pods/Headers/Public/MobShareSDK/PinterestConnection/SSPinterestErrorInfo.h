@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/PinterestConnection.framework/Headers/SSPinterestErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/PinterestConnection.framework/Headers/SSPinterestErrorInfo.h

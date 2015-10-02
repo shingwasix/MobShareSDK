@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/SMSConnection.framework/Headers/SMSConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/SMSConnection.framework/Headers/SMSConnection.h

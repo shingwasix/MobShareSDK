@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/LineConnection.framework/Headers/ISSLineApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/LineConnection.framework/Headers/ISSLineApp.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TwitterConnection.framework/Headers/SSTwitterShareContentEntity.h
+../../../../../../Official-Sources/ShareSDK/Connection/TwitterConnection.framework/Headers/SSTwitterShareContentEntity.h

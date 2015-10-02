@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/MailConnection.framework/Headers/ISSMailApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/MailConnection.framework/Headers/ISSMailApp.h

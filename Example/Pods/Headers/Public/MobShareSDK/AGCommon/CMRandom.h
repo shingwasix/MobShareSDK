@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMRandom.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMRandom.h

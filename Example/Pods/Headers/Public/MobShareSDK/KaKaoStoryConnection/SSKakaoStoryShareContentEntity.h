@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/KaKaoStoryConnection.framework/Headers/SSKakaoStoryShareContentEntity.h
+../../../../../../Official-Sources/ShareSDK/Connection/KaKaoStoryConnection.framework/Headers/SSKakaoStoryShareContentEntity.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/MailConnection.framework/Headers/MailConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/MailConnection.framework/Headers/MailConnection.h

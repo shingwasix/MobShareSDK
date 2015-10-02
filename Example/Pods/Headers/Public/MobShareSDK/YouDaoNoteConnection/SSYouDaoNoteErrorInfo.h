@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/YouDaoNoteConnection.framework/Headers/SSYouDaoNoteErrorInfo.h

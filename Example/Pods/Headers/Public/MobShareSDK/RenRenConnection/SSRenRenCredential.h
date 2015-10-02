@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/RenRenConnection.framework/Headers/SSRenRenCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/RenRenConnection.framework/Headers/SSRenRenCredential.h

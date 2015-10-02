@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/QZoneConnection.framework/Headers/SSQZoneShareInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/QZoneConnection.framework/Headers/SSQZoneShareInfo.h

@@ -1,1 +1,0 @@
-../../../../../../ShareSDK/Connection/SohuConnection.framework/Headers/SSSohuShareContentEntity.h

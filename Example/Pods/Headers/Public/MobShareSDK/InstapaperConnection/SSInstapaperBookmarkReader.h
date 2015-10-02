@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperBookmarkReader.h
+../../../../../../Official-Sources/ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperBookmarkReader.h

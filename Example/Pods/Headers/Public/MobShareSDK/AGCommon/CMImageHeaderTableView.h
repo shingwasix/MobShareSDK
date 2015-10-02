@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMImageHeaderTableView.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMImageHeaderTableView.h

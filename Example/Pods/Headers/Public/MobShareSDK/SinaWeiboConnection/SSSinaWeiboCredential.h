@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SSSinaWeiboCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/SinaWeiboConnection.framework/Headers/SSSinaWeiboCredential.h

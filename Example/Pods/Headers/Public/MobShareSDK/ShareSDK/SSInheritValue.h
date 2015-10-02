@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/SSInheritValue.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/SSInheritValue.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/ShareSDKDef.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/ShareSDKDef.h

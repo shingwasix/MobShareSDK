@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/AliPaySocialConnection.framework/Headers/ISSAliPaySocialApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/AliPaySocialConnection.framework/Headers/ISSAliPaySocialApp.h

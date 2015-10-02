@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/RenRenConnection.framework/Headers/ISSRenRenApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/RenRenConnection.framework/Headers/ISSRenRenApp.h

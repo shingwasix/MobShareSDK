@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/FlickrConnection.framework/Headers/ISSFlickrApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/FlickrConnection.framework/Headers/ISSFlickrApp.h

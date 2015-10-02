@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperErrorInfo.h

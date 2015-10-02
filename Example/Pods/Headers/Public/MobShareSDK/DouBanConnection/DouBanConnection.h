@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/DouBanConnection.framework/Headers/DouBanConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/DouBanConnection.framework/Headers/DouBanConnection.h

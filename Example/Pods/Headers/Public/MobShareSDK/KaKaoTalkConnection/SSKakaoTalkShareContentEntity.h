@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/KaKaoTalkConnection.framework/Headers/SSKakaoTalkShareContentEntity.h
+../../../../../../Official-Sources/ShareSDK/Connection/KaKaoTalkConnection.framework/Headers/SSKakaoTalkShareContentEntity.h

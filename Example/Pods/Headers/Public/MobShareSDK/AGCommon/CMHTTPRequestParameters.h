@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMHTTPRequestParameters.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMHTTPRequestParameters.h

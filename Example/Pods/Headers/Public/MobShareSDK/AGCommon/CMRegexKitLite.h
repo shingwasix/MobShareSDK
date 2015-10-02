@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMRegexKitLite.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMRegexKitLite.h

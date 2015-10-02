@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMQuiltItemView.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMQuiltItemView.h

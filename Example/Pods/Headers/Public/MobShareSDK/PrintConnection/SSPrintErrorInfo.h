@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/PrintConnection.framework/Headers/SSPrintErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/PrintConnection.framework/Headers/SSPrintErrorInfo.h

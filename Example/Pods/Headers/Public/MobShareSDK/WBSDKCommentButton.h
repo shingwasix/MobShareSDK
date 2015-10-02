@@ -1,1 +1,1 @@
-../../../../../ShareSDK/Extend/SinaWeiboSDK/WBSDKCommentButton.h
+../../../../../Official-Sources/ShareSDK/Extend/SinaWeiboSDK/WBSDKCommentButton.h

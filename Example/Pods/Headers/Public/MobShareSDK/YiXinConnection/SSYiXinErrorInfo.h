@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/YiXinConnection.framework/Headers/SSYiXinErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/YiXinConnection.framework/Headers/SSYiXinErrorInfo.h

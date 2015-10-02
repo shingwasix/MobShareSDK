@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrCredential.h

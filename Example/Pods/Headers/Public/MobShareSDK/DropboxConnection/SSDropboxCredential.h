@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxCredential.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/CMImageCacheManager.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/CMImageCacheManager.h

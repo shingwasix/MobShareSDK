@@ -1,1 +1,1 @@
-../../../../../ShareSDK/Extend/APSocialSDK/APOpenAPI.h
+../../../../../Official-Sources/ShareSDK/Extend/APSocialSDK/APOpenAPI.h

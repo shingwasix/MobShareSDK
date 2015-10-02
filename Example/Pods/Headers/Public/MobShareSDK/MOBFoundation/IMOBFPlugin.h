@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/MOBFoundation.framework/Headers/IMOBFPlugin.h
+../../../../../../Official-Sources/ShareSDK/Core/MOBFoundation.framework/Headers/IMOBFPlugin.h

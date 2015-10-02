@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/VKontakteConnection.framework/Headers/ISSVKontakteApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/VKontakteConnection.framework/Headers/ISSVKontakteApp.h

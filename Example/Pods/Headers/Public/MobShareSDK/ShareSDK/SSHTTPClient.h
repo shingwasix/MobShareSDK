@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/SSHTTPClient.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/SSHTTPClient.h

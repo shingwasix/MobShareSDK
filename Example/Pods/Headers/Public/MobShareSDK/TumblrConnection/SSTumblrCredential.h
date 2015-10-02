@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/TumblrConnection.framework/Headers/SSTumblrCredential.h

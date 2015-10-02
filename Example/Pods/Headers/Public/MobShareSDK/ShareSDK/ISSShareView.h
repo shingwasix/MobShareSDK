@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/ISSShareView.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/ISSShareView.h

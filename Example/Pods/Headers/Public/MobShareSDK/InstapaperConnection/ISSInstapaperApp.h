@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/InstapaperConnection.framework/Headers/ISSInstapaperApp.h
+../../../../../../Official-Sources/ShareSDK/Connection/InstapaperConnection.framework/Headers/ISSInstapaperApp.h

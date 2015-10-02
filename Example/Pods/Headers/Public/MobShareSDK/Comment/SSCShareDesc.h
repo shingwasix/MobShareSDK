@@ -1,1 +1,1 @@
-../../../../../../Comment/Comment.framework/Headers/SSCShareDesc.h
+../../../../../../Official-Sources/Comment/Comment.framework/Headers/SSCShareDesc.h

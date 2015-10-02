@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/ISSAuthOptions.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/ISSAuthOptions.h

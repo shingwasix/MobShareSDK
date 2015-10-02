@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Extend/GooglePlusSDK/GooglePlus.framework/Versions/A/Headers/GPPSignIn.h
+../../../../../../Official-Sources/ShareSDK/Extend/GooglePlusSDK/GooglePlus.framework/Versions/A/Headers/GPPSignIn.h

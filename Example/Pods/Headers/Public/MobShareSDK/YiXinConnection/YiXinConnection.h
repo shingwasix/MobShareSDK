@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/YiXinConnection.framework/Headers/YiXinConnection.h
+../../../../../../Official-Sources/ShareSDK/Connection/YiXinConnection.framework/Headers/YiXinConnection.h

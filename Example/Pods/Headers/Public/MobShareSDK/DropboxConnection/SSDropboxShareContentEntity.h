@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxShareContentEntity.h
+../../../../../../Official-Sources/ShareSDK/Connection/DropboxConnection.framework/Headers/SSDropboxShareContentEntity.h

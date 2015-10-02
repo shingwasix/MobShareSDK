@@ -1,1 +1,1 @@
-../../../../../ShareSDK/Extend/SinaWeiboSDK/WBHttpRequest.h
+../../../../../Official-Sources/ShareSDK/Extend/SinaWeiboSDK/WBHttpRequest.h

@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/QZoneConnection.framework/Headers/SSQZoneCredential.h
+../../../../../../Official-Sources/ShareSDK/Connection/QZoneConnection.framework/Headers/SSQZoneCredential.h

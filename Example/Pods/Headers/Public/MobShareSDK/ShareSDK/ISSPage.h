@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/ShareSDK.framework/Headers/ISSPage.h
+../../../../../../Official-Sources/ShareSDK/ShareSDK.framework/Headers/ISSPage.h

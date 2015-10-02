@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Connection/KaKaoTalkConnection.framework/Headers/SSKakaoTalkErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Connection/KaKaoTalkConnection.framework/Headers/SSKakaoTalkErrorInfo.h

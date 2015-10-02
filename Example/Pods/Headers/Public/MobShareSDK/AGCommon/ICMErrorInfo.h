@@ -1,1 +1,1 @@
-../../../../../../ShareSDK/Core/AGCommon.framework/Headers/ICMErrorInfo.h
+../../../../../../Official-Sources/ShareSDK/Core/AGCommon.framework/Headers/ICMErrorInfo.h
