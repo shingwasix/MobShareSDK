@@ -14,11 +14,11 @@ ShareSDK for iOS 来自 [mob](http://mob.com)
 2.12.0 [更新时间:2015-09-30]
 
 ## 官方更新说明
-1、适配iOS9。
-2、新增Facebook的邀请好友使用应用功能。
-3、取消对“搜狐随身看”平台的支持（已经无法正常使用）。
-4、解决ShareSDK和xy，iTools的SDK的兼容问题。
-5、Facebook获取用户信息接口新增token_for_bussiness字段。
+1. 适配iOS9。
+2. 新增Facebook的邀请好友使用应用功能。
+3. 取消对“搜狐随身看”平台的支持（已经无法正常使用）。
+4. 解决ShareSDK和xy，iTools的SDK的兼容问题。
+5. Facebook获取用户信息接口新增token_for_bussiness字段。
 
 [iOS9-对ShareSDK的影响（适配iOS-9必读）](http://wiki.mob.com/ios9-%E5%AF%B9sharesdk%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%88%E9%80%82%E9%85%8Dios-9%E5%BF%85%E8%AF%BB%EF%BC%89/)
 
