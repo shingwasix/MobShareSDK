@@ -11,14 +11,23 @@ ShareSDK for iOS 来自 [mob](http://mob.com)
 此为非官方整理用于CocoaPods部署的项目，旨在降低开发者集成ShareSDK的成本。项目中Official-Sources下的文件为[mob](http://mob.com) 官网下载的SDK文件，其中，为了通过pod的验证，ShareSDK/UI下的framework目录下补充了缺失的Headers文件夹。
 
 ## 版本
-2.12.0 [更新时间:2015-09-30]
+2.12.1 [更新时间:2015-10-30]
 
 ## 官方更新说明
-1. 适配iOS9。
-2. 新增Facebook的邀请好友使用应用功能。
-3. 取消对“搜狐随身看”平台的支持（已经无法正常使用）。
-4. 解决ShareSDK和xy，iTools的SDK的兼容问题。
-5. Facebook获取用户信息接口新增token_for_bussiness字段。
+1. 更新腾讯开放平台SDK到最新，修复在iOS9下QQ空间网页授权可能加载不出授权页面。
+2. 删除腾讯开放平台SDK中的info.plist文件，避免在Xcode7下打包时报错。
+3. 修复iOS9下系统询问是否打开应用的提醒窗口时没有回调的问题。
+4. 修复腾讯微博、Pocket平台分享失败问题。
+5. Facebook接口增加设定是否获取token for bussiness字段的接口。
+
+[此版本详细更新说明](http://bbs.mob.com/forum.php?mod=viewthread&tid=18234&page=1&extra=#pid39150)
+
+### 以下用户建议更新：
+1. iOS9下QQ空间网页授权失败的用户。
+2. 使用Xcode7，因为腾讯SDK打包失败的用户。
+3. 需要解决在iOS9下系统询问是否打开应用的提醒窗口时没有回调的用户。
+4. 腾讯微博、Pocket分享失败的用户。
+5. 需要关闭获取token for bussiness字段的接口的用户。
 
 [iOS9-对ShareSDK的影响（适配iOS-9必读）](http://wiki.mob.com/ios9-%E5%AF%B9sharesdk%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%88%E9%80%82%E9%85%8Dios-9%E5%BF%85%E8%AF%BB%EF%BC%89/)
 

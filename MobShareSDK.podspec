@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                = "MobShareSDK"
-    s.version             = "2.12.0"
+    s.version             = "2.12.1"
     s.summary             = 'ShareSDK of mob for iOS.'
     s.license             = 'Copyright © 2012-2015 mob'
     s.author              = { "shingwasix" => "https://github.com/shingwasix" }
