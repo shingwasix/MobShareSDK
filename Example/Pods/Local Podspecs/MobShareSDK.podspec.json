@@ -1,6 +1,6 @@
 {
   "name": "MobShareSDK",
-  "version": "2.12.0",
+  "version": "2.12.1",
   "summary": "ShareSDK of mob for iOS.",
   "license": "Copyright © 2012-2015 mob",
   "authors": {
@@ -9,7 +9,7 @@
   "homepage": "http://mob.com",
   "source": {
     "git": "https://github.com/shingwasix/MobShareSDK.git",
-    "tag": "2.12.0"
+    "tag": "2.12.1"
   },
   "platforms": {
     "ios": "5.1.1"

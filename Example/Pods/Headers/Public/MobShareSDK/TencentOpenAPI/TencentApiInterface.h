@@ -1,1 +1,0 @@
-../../../../../../Official-Sources/ShareSDK/Extend/QQConnectSDK/TencentOpenAPI.framework/Headers/TencentApiInterface.h

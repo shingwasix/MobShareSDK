@@ -31,6 +31,13 @@ ShareSDK for iOS 来自 [mob](http://mob.com)
 
 [iOS9-对ShareSDK的影响（适配iOS-9必读）](http://wiki.mob.com/ios9-%E5%AF%B9sharesdk%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%88%E9%80%82%E9%85%8Dios-9%E5%BF%85%E8%AF%BB%EF%BC%89/)
 
+## 补充说明
+
+有使用QQ或QQ空间分享的朋友，需要在info.plist下增加OpenURL白名单，其余平台配置可参考上边的`iOS9-对ShareSDK的影响（适配iOS-9必读）`：
+
++ tencentapi.qq.reqContent
++ tencentapi.qzone.reqContent
+
 ## 兼容平台
 iOS 5.1.1 及以上
 
